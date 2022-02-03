@@ -17,7 +17,7 @@
     body = #mainContent,.contentCenterWide
     parent = .breadcrumb li:nth-last-of-type(2) a::attr(href)
 ```    
-Different pages may use different classes for the body.  Concatenate the selectors in a comma.
+Different pages may use different classes for the body.  Concatenate the selectors with comma.
     
 3. Run this command
 ```
