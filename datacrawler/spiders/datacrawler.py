@@ -18,7 +18,7 @@ class DatacrawlerSpider(CrawlSpider):
         self.url_v = config.get(target, 'start_urls')
         self.title_v = config.get(target, 'title')
         self.body_v = config.get(target, 'body')
-        self.parent_v = config.get(target, 'parent')
+        #self.parent_v = config.get(target, 'parent')
 
         print(self.start_urls)
 
@@ -36,7 +36,20 @@ class DatacrawlerSpider(CrawlSpider):
     def parse_item(self, response):
         item = DatacrawlerItem()
         item['url'] = response.url
-        item['title'] = response.css(self.title_v).get().strip()
-        item['body'] = response.css(self.body_v).get().strip()
-        item['parent'] = self.url_v + response.css(self.parent_v).get().strip()
+
+        try:
+            item['title'] = response.css(self.title_v).get().strip().title()
+        except AttributeError:
+            item['title'] = None
+
+        try:
+            item['body'] = response.css(self.body_v).get().strip()
+        except AttributeError:
+            item['body'] = None
+
+        try:
+            item['parent'] = self.url_v + response.css(self.parent_v).get().strip()
+        except AttributeError:
+            item['parent'] = None
+
         yield item
