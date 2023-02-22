@@ -3,7 +3,9 @@
 ## Prerequisites
 
 * Install Python Virtual Environment: https://opensource.com/article/19/6/python-virtual-environments-mac
-* Create a virtual env and install scrapy: pip install Scrapy
+  * Python version might need to be newer than what is documented. For example on Ventura, install Python 3.11.1.
+* Create a virtual env and install scrapy: pip install Scrapy 
+  * You might need to install dateparser if missing: pip install dataparser
 
 ## Adding a new website to scrape
 
@@ -28,5 +30,4 @@ Replace sf with the target you defined in spiders.ini
 
 4. Commit the code and push.
 5. Grab the raw value of the json file, ie https://raw.githubusercontent.com/JudicialCouncilOfCalifornia/scrape/main/results/sf.json
-6. Make a copy of the Spreadsheet.
-7. Update the url in the first cell of the spreadsheet.
+6. Import the results into new migration spreadsheet with the json file. See https://github.com/JudicialCouncilOfCalifornia/trialcourt/blob/master/docs/migrations.md and update the url in the import value for the first spreadsheet cell.
