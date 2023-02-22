@@ -30,4 +30,4 @@ Replace sf with the target you defined in spiders.ini
 
 4. Commit the code and push.
 5. Grab the raw value of the json file, ie https://raw.githubusercontent.com/JudicialCouncilOfCalifornia/scrape/main/results/sf.json
-6. Import the results into new migration spreadsheet with the json file. See https://github.com/JudicialCouncilOfCalifornia/trialcourt/blob/master/docs/migrations.md and update the url in the import value for the first spreadsheet cell.
+6. Import the results into new migration spreadsheet with the json file. Duplicate a previous spreadsheet from https://docs.google.com/spreadsheets/d/1zsZ-cEIZGWvmv0dXVTyL8Hh4Y9ld64Gcqy3TuxQAP7c/edit?pli=1#gid=0. Update the url in the import value for the first spreadsheet cell under the `PageScrape` sheet.

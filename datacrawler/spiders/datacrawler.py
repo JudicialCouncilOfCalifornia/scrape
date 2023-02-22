@@ -18,7 +18,7 @@ class DatacrawlerSpider(CrawlSpider):
         self.url_v = config.get(target, 'start_urls')
         self.title_v = config.get(target, 'title')
         self.body_v = config.get(target, 'body')
-        #self.parent_v = config.get(target, 'parent')
+        self.parent_v = config.get(target, 'parent')
 
         print(self.start_urls)
 
