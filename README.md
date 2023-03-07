@@ -30,4 +30,18 @@ Replace sf with the target you defined in spiders.ini
 
 4. Commit the code and push.
 5. Grab the raw value of the json file, ie https://raw.githubusercontent.com/JudicialCouncilOfCalifornia/scrape/main/results/sf.json
-6. Import the results into new migration spreadsheet with the json file. Duplicate a previous spreadsheet from https://docs.google.com/spreadsheets/d/1zsZ-cEIZGWvmv0dXVTyL8Hh4Y9ld64Gcqy3TuxQAP7c/edit?pli=1#gid=0. Update the url in the import value for the first spreadsheet cell under the `PageScrape` sheet.
+6. Import the results into new migration spreadsheet with the json file. Duplicate a previous spreadsheet from https://docs.google.com/spreadsheets/d/1zsZ-cEIZGWvmv0dXVTyL8Hh4Y9ld64Gcqy3TuxQAP7c/edit?pli=1#gid=0.
+   - Update the import value for the 'url' cell under the `PageScrape` sheet.
+7. Permit public access to spreadsheet for the migration import to pull content.
+   - `Share > Anyone with the link` with `Viewer` level access.
+
+### Files
+Migration import will depend on media to be imported first. Use any tool that can find and report on all media in use.
+
+1. brew install httrack
+2. on your terminal
+   - httrack https://www.amadorcourt.org/  -O "/path/to/Amador"  -%v -r10 -v
+   - cd /path/to/Amador/www.amadorcourt.org
+   - find . -type f -not -name "*.html" -not -name "*.js" -not -name "*.xml" -not -name "*.LOG" -not -name "*.db" -not -name "*.asp" -not -name "*.cfm" -not -name "*.txt" -not -name ".htaccess" -not -name "*.htm" -not -name "*.html" -not -name "*.wal" -not -name "*.dbn" -not -name "*.mdb" -not -name "*.cfc" -not -name "*.css" -not -name "*.inc" -not -name "*.class" -not -name "*.ds" > ../links.txt
+   - cd ..
+   - open links.txt and transfer to the `Forms` sheet in the migration spreadsheet
