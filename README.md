@@ -40,8 +40,10 @@ Migration import will depend on media to be imported first. Use any tool that ca
 
 1. brew install httrack
 2. on your terminal
-   - httrack https://www.amadorcourt.org/  -O "/path/to/Amador"  -%v -r10 -v
-   - cd /path/to/Amador/www.amadorcourt.org
-   - find . -type f -not -name "*.html" -not -name "*.js" -not -name "*.xml" -not -name "*.LOG" -not -name "*.db" -not -name "*.asp" -not -name "*.cfm" -not -name "*.txt" -not -name ".htaccess" -not -name "*.htm" -not -name "*.html" -not -name "*.wal" -not -name "*.dbn" -not -name "*.mdb" -not -name "*.cfc" -not -name "*.css" -not -name "*.inc" -not -name "*.class" -not -name "*.ds" > ../links.txt
-   - cd ..
+   - ```
+      httrack https://www.amadorcourt.org/  -O "/path/to/Amador"  -%v -r10 -v
+      cd /path/to/Amador/www.amadorcourt.org
+      find . -type f -not -name "*.html" -not -name "*.js" -not -name "*.xml" -not -name "*.LOG" -not -name "*.db" -not -name "*.asp" -not -name "*.cfm" -not -name "*.txt" -not -name ".htaccess" -not -name "*.htm" -not -name "*.html" -not -name "*.wal" -not -name "*.dbn" -not -name "*.mdb" -not -name "*.cfc" -not -name "*.css" -not -name "*.inc" -not -name "*.class" -not -name "*.ds" > ../links.txt
+      cd ..
+     ```
    - open links.txt and transfer to the `Forms` sheet in the migration spreadsheet
