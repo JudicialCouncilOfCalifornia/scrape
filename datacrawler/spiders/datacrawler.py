@@ -26,7 +26,7 @@ class DatacrawlerSpider(CrawlSpider):
         Rule(
             LinkExtractor(
                 allow=('.*'),
-                deny=('/spanish', '/portugese')
+                deny=()
             ),
             callback='parse_item',
             follow=True
