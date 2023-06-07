@@ -4,6 +4,7 @@ from scrapy.spiders import CrawlSpider, Rule
 from ..items import DatacrawlerItem
 from configparser import ConfigParser  # ver. < 3.0
 from urllib.parse import urlparse
+import re
 
 class DatacrawlerSpider(CrawlSpider):
     name = 'datacrawler'
@@ -42,6 +43,7 @@ class DatacrawlerSpider(CrawlSpider):
         url = urlparse(response.url)
         directories = list(filter(None, url.path.split('/')))
         del directories[-1]
+        fullParent = '/'.join(directories)
         ancestorCount = len(directories)
 
         # Generate a list of search/replace tuples.
@@ -86,6 +88,9 @@ class DatacrawlerSpider(CrawlSpider):
             item['body'] = response.css(self.body_v).get().strip()
             for search, replace in REPLACEMENTS:
                 item['body'] = item['body'].replace(search, replace)
+
+            item['body'] = re.sub(r"(href\=\")(?=(?!(mailto|javascript|http))[a-zA-Z0-9])", 'href="/' + fullParent + '/', item['body'])
+            #print(re.findall("(href\=\")(?=(?!(mailto|javascript|http))[a-zA-Z0-9])", item["body"]))
         except AttributeError:
             item['body'] = None
 
