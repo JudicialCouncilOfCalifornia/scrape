@@ -4,8 +4,8 @@
 
 * Install Python Virtual Environment: https://opensource.com/article/19/6/python-virtual-environments-mac
   * Python version might need to be newer than what is documented. For example on Ventura, install Python 3.11.1.
-* Create a virtual env and install scrapy: pip install Scrapy 
-  * You might need to install dateparser if missing: pip install dataparser
+* Create a virtual env and install scrapy: pip install Scrapy
+  * You might need to install dateparser if missing: pip install dateparser
 
 ## Adding a new website to scrape
 
@@ -18,9 +18,19 @@
     title = .hero h1::text,.another-class-used-for-title
     body = #mainContent,.contentCenterWide
     parent = .breadcrumb li:nth-last-of-type(2) a::attr(href)
-```    
+    allowed_urls_file = false
+```
 Different pages may use different classes for the body.  Concatenate the selectors with comma.
-    
+
+In the case of courts.ca we only want to scrape a subset of urls. This requires the `allowed_urls_file` key in the config. Leave it `false` if not needed. If it is needed set it to the file name of the list of urls to scrape. The file should be in the same directory as the spiders.ini file.  i.e. sf-urls.ini
+
+This file should contain the heading that matches your new heading in spiders.ini.  i.e. [sf]. Following that is the key `allowed_urls` with a space separated list of urls you want to scrape.
+
+```
+    [sf]
+    allowed_urls = https://www.sfsuperiorcourt.org/general-info/locations-and-contact-information https://www.sfsuperiorcourt.org/general-info/locations-and-contact-information https://www.sfsuperiorcourt.org/general-info/locations-and-contact-information
+```
+
 3. Run this command
 ```
     scrapy crawl datacrawler -o results/sf.json -a target=sf
