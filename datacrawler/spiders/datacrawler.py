@@ -17,6 +17,9 @@ class DatacrawlerSpider(CrawlSpider):
         self.allowed_urls_file = config.get(target, 'allowed_urls_file')
         self.allowed_urls = []
 
+        # log self.allowed_urls_file
+        print("***************************************" + self.allowed_urls_file)
+
         if self.allowed_urls_file != 'false':
             urls_config = ConfigParser()
             urls_config.read(self.allowed_urls_file)
@@ -45,7 +48,7 @@ class DatacrawlerSpider(CrawlSpider):
 
     def parse_item(self, response):
         # If response.url is not in array allowed_urls, return nothing.
-        if self.allowed_urls_file != 'false' & response.url not in self.allowed_urls:
+        if self.allowed_urls_file != 'false' and response.url not in self.allowed_urls:
             return
 
         item = DatacrawlerItem()
