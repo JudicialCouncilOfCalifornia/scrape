@@ -6,7 +6,7 @@
 import scrapy
 from itemloaders.processors import Join, MapCompose, Identity, TakeFirst, Compose
 from w3lib.html import remove_tags
-from .utils.processors import Text, Number, Price, Date, Url, Image, PageUrl, Regex, Prepend
+from .utils.processors import Text, Number, Price, Date, Url, Image, PageUrl, Regex, Prepend, SafeHtml
 
 
 class DatacrawlerItem(scrapy.Item):
@@ -52,7 +52,10 @@ class JusticeItem(scrapy.Item):
         input_processor=Text(),
         output_processor=Join(),
     )
-    body = scrapy.Field()
+    body = scrapy.Field(
+        input_processor=SafeHtml(),
+        output_processor=Join(),
+    )
     district = scrapy.Field(
         input_processor=Text(),
         output_processor=Join(),
@@ -70,6 +73,10 @@ class JusticeItem(scrapy.Item):
         output_processor=TakeFirst(),
     )
     marker = scrapy.Field(
+        input_processor=Text(),
+        output_processor=Join(),
+    )
+    bodytext = scrapy.Field(
         input_processor=Text(),
         output_processor=Join(),
     )

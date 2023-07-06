@@ -96,6 +96,10 @@ class DcaJusticeSpider(BasePortiaSpider):
                     Field(
                         'body',
                         '#twoColumns',
+                        []),
+                    Field(
+                        'bodytext',
+                        '#twoColumns',
                         [])
                 ])
         ]
