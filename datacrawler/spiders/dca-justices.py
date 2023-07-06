@@ -16,7 +16,9 @@ class DcaJusticeSpider(BasePortiaSpider):
         'https://www.courts.ca.gov/2514.htm',
         'https://www.courts.ca.gov/2524.htm',
         'https://www.courts.ca.gov/2998.htm',
-        'https://www.courts.ca.gov/3000.htm'
+        'https://www.courts.ca.gov/3000.htm',
+        'https://www.courts.ca.gov/17434.htm',
+        'https://www.courts.ca.gov/2730.htm'
     ]
 
     rules = [
@@ -53,7 +55,7 @@ class DcaJusticeSpider(BasePortiaSpider):
         )
     ]
     custom_settings = {
-        "DEPTH_LIMIT": 2
+        "DEPTH_LIMIT": 4
     }
 
     items = [
