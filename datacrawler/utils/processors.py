@@ -246,3 +246,18 @@ class Regex(BaseProcessor):
 class PageUrl(BaseProcessor):
     def __call__(self, values, loader_context=None):
         return loader_context.get('response').url
+
+class Prepend(BaseProcessor):
+    def __init__(self, text):
+        self._text = text
+
+    def __call__(self, values):
+        results = []
+        for value in values:
+            if isinstance(value, (dict, list)):
+                results.append(value)
+            if not value:
+                continue
+            value = self._text + value
+            results.append(value)
+        return results
