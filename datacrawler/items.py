@@ -52,10 +52,7 @@ class JusticeItem(scrapy.Item):
         input_processor=Text(),
         output_processor=Join(),
     )
-    body = scrapy.Field(
-        input_processor=SafeHtml(),
-        output_processor=Join(),
-    )
+    body = scrapy.Field()
     district = scrapy.Field(
         input_processor=Text(),
         output_processor=Join(),
