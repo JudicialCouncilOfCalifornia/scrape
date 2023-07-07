@@ -24,8 +24,8 @@ for i in justicesDataframe.index:
     if justicesAi.isnull(justicesDataframe['body'][i]):
 
         try:
-            prompt = "clean up the formatting:\n\n"
-            justicesDataframe.at[i, 'body'] = text = justicesAi.chatgpt(prompt + justicesDataframe['ocr'][i])
+            prompt = "write a biography using all the info:\n\n"
+            justicesDataframe.at[i, 'body'] = text = justicesAi.chatgpt(prompt + '"' + justicesDataframe['ocr'][i] + '"')
             print('--- body: ' + text[0:10])
 
         except Exception as err:

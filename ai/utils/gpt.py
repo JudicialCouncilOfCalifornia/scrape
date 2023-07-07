@@ -12,7 +12,7 @@ import six
 from copy import deepcopy
 
 try:
-    openai.api_key = os.environ['_CHATGPT_API_KEY']
+    openai.api_key = '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'
 except:
     pass
 
@@ -71,7 +71,7 @@ class Gpt:
           model="text-davinci-003",
           prompt=prompt,
           temperature=0.7,
-          max_tokens=256,
+          max_tokens=1000,
           top_p=1,
           frequency_penalty=0,
           presence_penalty=0
