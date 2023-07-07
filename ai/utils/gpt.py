@@ -11,11 +11,6 @@ import re
 import six
 from copy import deepcopy
 
-try:
-    openai.api_key = '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'
-except:
-    pass
-
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'}
 EOF_MARKER = b'%%EOF'
 
@@ -24,6 +19,7 @@ class Gpt:
     def __init__(self, csv):
         self.csv = csv
         self.dataframe = pd.read_csv(csv)
+        openai.api_key = os.environ['_CHATGPT_API_KEY']
 
     def get_df(self):
         return self.dataframe
