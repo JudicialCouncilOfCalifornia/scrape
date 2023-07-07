@@ -19,7 +19,7 @@ class Gpt:
     def __init__(self, csv):
         self.csv = csv
         self.dataframe = pd.read_csv(csv)
-        openai.api_key = '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'
+        openai.api_key = os.environ['_CHATGPT_API_KEY']
 
     def get_df(self):
         return self.dataframe
