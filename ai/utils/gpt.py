@@ -7,8 +7,15 @@ from numpy import random
 from time import sleep
 import openai
 import os
+import re
+import six
+from copy import deepcopy
 
-openai.api_key = os.environ['_CHATGPT_API_KEY']
+try:
+    openai.api_key = os.environ['_CHATGPT_API_KEY']
+except:
+    pass
+
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'}
 EOF_MARKER = b'%%EOF'
 
@@ -72,3 +79,19 @@ class Gpt:
 
         message = response.choices[0].text.strip()
         return message
+
+class Regex:
+    def __init__(self, regexp):
+        if isinstance(regexp, six.string_types):
+            regexp = re.compile(regexp)
+        self.regexp = regexp.pattern
+        self._regexp = regexp
+
+    def __call__(self, value):
+        if value:
+            match = self._regexp.search(value)
+        return u"".join([g for g in match.groups() or match.group() if g])
+
+    def __deepcopy__(self, memo):
+        """Overwrite deepcopy so that the regexp is recalculated."""
+        return type(self)(deepcopy(self.regexp, memo))
