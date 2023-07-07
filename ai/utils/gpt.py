@@ -19,7 +19,7 @@ class Gpt:
     def __init__(self, csv):
         self.csv = csv
         self.dataframe = pd.read_csv(csv)
-        openai.api_key = os.environ['_CHATGPT_API_KEY']
+        openai.api_key = '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'
 
     def get_df(self):
         return self.dataframe
@@ -28,7 +28,7 @@ class Gpt:
     def isnull(frame):
         return pd.isnull(frame)
 
-    def reducewords(text, numofwords):
+    def reducewords(self, text, numofwords):
         return ' '.join(text.split()[:numofwords])
 
     def randomsleep(self, ):
@@ -86,7 +86,10 @@ class Regex:
     def __call__(self, value):
         if value:
             match = self._regexp.search(value)
-        return u"".join([g for g in match.groups() or match.group() if g])
+            if match is not None:
+                return u"".join([g for g in match.groups() or match.group() if g])
+
+        return None
 
     def __deepcopy__(self, memo):
         """Overwrite deepcopy so that the regexp is recalculated."""

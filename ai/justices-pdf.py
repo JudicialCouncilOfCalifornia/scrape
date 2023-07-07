@@ -8,64 +8,63 @@ roleRegex = Regex('(?i)(Presiding|Associate)\ Justice')
 
 for i in justicesDataframe.index:
 
-    print('PROCESSING: ' + justicesDataframe['title'][i])
+    print("\nPROCESSING: " + justicesDataframe['title'][i])
 
     if justicesAi.isnull(justicesDataframe['ocr'][i]):
 
         try:
             justicesDataframe.at[i, 'ocr'] = text = justicesAi.pdftotext(justicesDataframe['url'][i])
-            print('--- ocr: ' + text[0:10])
+            print('--- ocr:', text[0:20] + '...')
 
         except Exception as err:
-            print('--- FAILED: ' + justicesDataframe['title'][i])
-            print(f"Unexpected {err=}, {type(err)=}")
+            print('--- oct FAILED: ' + justicesDataframe['title'][i])
+            print(f"--- Unexpected {err=}, {type(err)=}")
             pass
 
-    if justicesAi.isnull(justicesDataframe['body'][i]):
+    if justicesAi.isnull(justicesDataframe['body'][i]) and justicesDataframe['ocr'][i]:
 
         try:
-            prompt = "write a biography using all the info:\n\n"
-            justicesDataframe.at[i, 'body'] = text = justicesAi.chatgpt(prompt + '"' + justicesDataframe['ocr'][i] + '"')
-            print('--- body: ' + text[0:10])
+            prompt = "summarize this justice profile:\n\n"
+            justicesDataframe.at[i, 'body'] = text = justicesAi.chatgpt(prompt + '"' + justicesAi.reducewords(justicesDataframe['ocr'][i], 2000) + '"')
+            print('--- body:', text[0:20] + '...')
 
         except Exception as err:
-            print('--- FAILED: ' + justicesDataframe['title'][i])
-            print(f"Unexpected {err=}, {type(err)=}")
+            print('--- body FAILED:' + justicesDataframe['title'][i])
+            print(f"--- Unexpected {err=}, {type(err)=}")
             pass
 
-    if justicesAi.isnull(justicesDataframe['date'][i]):
+    if justicesAi.isnull(justicesDataframe['date'][i]) and justicesDataframe['ocr'][i]:
 
         try:
             prompt = "extract the justice appointment and resignation date in this format mm/dd/yyyy-mm/dd/yyyy:\n\n"
-            justicesDataframe.at[i, 'date'] = text = justicesAi.chatgpt(prompt + justicesDataframe['body'][i])
-            print('--- date: ' + text)
+            justicesDataframe.at[i, 'date'] = text = justicesAi.chatgpt(prompt + '"' + justicesAi.reducewords(justicesDataframe['ocr'][i], 2000) + '"')
+            print('--- date:', text)
 
         except Exception as err:
-            print('--- FAILED: ' + justicesDataframe['title'][i])
-            print(f"Unexpected {err=}, {type(err)=}")
+            print('--- date FAILED: ' + justicesDataframe['title'][i])
+            print(f"--- Unexpected {err=}, {type(err)=}")
             pass
 
-    if justicesAi.isnull(justicesDataframe['division'][i]):
+    if justicesAi.isnull(justicesDataframe['division'][i]) and justicesDataframe['ocr'][i]:
 
         try:
-            print('PROCESSING DIVISION: ' + justicesDataframe['title'][i])
-            justicesDataframe.at[i, 'division'] = division = divisionRegex(justicesDataframe['body'][i])
-            print('--- division' + division)
+            justicesDataframe.at[i, 'division'] = division = divisionRegex(justicesDataframe['ocr'][i])
+            print('--- division:', division)
 
         except Exception as err:
-            print('--- FAILED: ' + justicesDataframe['title'][i])
-            print(f"Unexpected {err=}, {type(err)=}")
+            print('--- division FAILED: ' + justicesDataframe['title'][i])
+            print(f"--- Unexpected {err=}, {type(err)=}")
             pass
 
-    if justicesAi.isnull(justicesDataframe['role'][i]):
+    if justicesAi.isnull(justicesDataframe['role'][i]) and justicesDataframe['ocr'][i]:
 
         try:
-            justicesDataframe.at[i, 'role'] = role = roleRegex(justicesDataframe['body'][i])
-            print('--- role' + role)
+            justicesDataframe.at[i, 'role'] = role = roleRegex(justicesDataframe['ocr'][i])
+            print('--- role:', role)
 
         except Exception as err:
-            print('FAILED: ' + justicesDataframe['title'][i])
-            print(f"Unexpected {err=}, {type(err)=}")
+            print('--- role FAILED: ' + justicesDataframe['title'][i])
+            print(f"--- Unexpected {err=}, {type(err)=}")
             pass
 
 justicesDataframe.to_csv("dca-justices-pdf.csv", index=False)
