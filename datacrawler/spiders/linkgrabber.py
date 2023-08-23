@@ -3,19 +3,8 @@ from bs4 import BeautifulSoup
 import os
 
 def parseJson(filename):
-    count = 0
-
     files = {}
     for item in json.load(open(filename)):
-        # print(item['body'])
-
-        # extract links using regex from body
-        # links = re.compile(r'([-\w]+\.(?:jpg|gif|png|jpeg|pdf))', re.IGNORECASE | re.MULTILINE | re.DOTALL)
-        # for match in links.finditer(str(item['body'])):
-        #     print(match.groups())
-        #     count+=1
-        #     print(count)
-
         html = BeautifulSoup(str(item['body']))
 
         for img in html.findAll('img'):
@@ -73,6 +62,8 @@ def parseJson(filename):
                 or 'sample exhibits' == title.lower()
                 or 'sample writ petitions' == title.lower()
                 or 'sample exhibit' == title.lower()
+                or 'sample brief' == title.lower()
+                or 'sample writ exhibit' == title.lower()
                 or 'sample writ petition' == title.lower()
                 or 'fee schedule' == title.lower()
                 or 'fee schedules' == title.lower()
