@@ -33,6 +33,7 @@ def parseJson(filename):
                 and 'youtube.com' not in href
                 and 'youtu.be' not in href
                 and 'maps.google.com' not in href
+                and 'granicus.com' not in href
                 and not href.startswith('#')
                 and not href.startswith('mailto')
                 and not href.endswith('.com')
