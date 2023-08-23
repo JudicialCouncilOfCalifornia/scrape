@@ -69,10 +69,15 @@ def parseJson(filename):
                 or 'appendix' == title.lower()
                 or 'sample appendix' == title.lower()
                 or 'exhibits' == title.lower()
+                or 'exhibit' == title.lower()
                 or 'sample exhibits' == title.lower()
                 or 'sample writ petitions' == title.lower()
+                or 'sample exhibit' == title.lower()
+                or 'sample writ petition' == title.lower()
                 or 'fee schedule' == title.lower()
                 or 'fee schedules' == title.lower()
+                or '.pdf' == title.lower()
+                or '.doc' == title.lower()
         ):
             title = os.path.splitext(os.path.basename(url))[0].replace('-', ' ').replace('_', ' ').replace('%20', ' ')
 
