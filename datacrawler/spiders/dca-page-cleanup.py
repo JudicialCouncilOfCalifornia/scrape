@@ -9,7 +9,7 @@ def parseJson(filename):
         data = json.load(jsonFile)
 
     for i in range(len(data)):
-        html = BeautifulSoup(str(data[i]['body']))
+        html = BeautifulSoup(str(data[i]['body']), 'lxml')
         html.find('div', id='leftNavDropdown').decompose()
         if html.find('div', id='printWrap'):
             html.find('div', id='printWrap').decompose()
@@ -17,9 +17,9 @@ def parseJson(filename):
             html.find('div', id='mobileFloatRight').decompose()
         html.find('div', id='leftPanel').decompose()
 
-        data[i]['body'] = str(html)
+        data[i]['body'] = str(html.find('div', id='mainContent'))
 
-    with open(filename, "w") as jsonFile:
+    with open("../../results/dca-page-clean.json", "w") as jsonFile:
         json.dump(data, jsonFile)
 
 parseJson('../../results/dca-page.json')
