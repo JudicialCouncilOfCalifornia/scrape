@@ -7,12 +7,15 @@ from numpy import random
 from time import sleep
 import openai
 import os
+import re
 
 openai.api_key = os.environ['_CHATGPT_API_KEY']
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'}
 EOF_MARKER = b'%%EOF'
 
 def reducewords(text, numofwords):
+    text = re.sub(' +', ' ', text)
+    text = text.replace('\r', '').replace('\n', '')
     return ' '.join(text.split()[:numofwords])
 
 def randomsleep():
@@ -50,7 +53,7 @@ def chatgpt(prompt, model="gpt-3.5-turbo"):
     response = openai.Completion.create(
       model="text-davinci-003",
       prompt="Summarize this for a high school student:\n\n\"" + prompt + "\"",
-      temperature=0.7,
+      temperature=0.3,
       max_tokens=256,
       top_p=1,
       frequency_penalty=0,
@@ -71,12 +74,12 @@ for i in pdfs.index:
             print('PROCESSING: ' + pdfs['url'][i])
             ocr = pdfs['ocr'][i]
 
-            if not ocr:
+            if pd.isnull(ocr):
                 print('-- converting PDF to TEXT')
                 pdfs.at[i, 'ocr'] = ocr = pdftotext(pdfs['url'][i])
 
             if ocr:
-                ocr = reducewords(ocr, 4000)
+                ocr = reducewords(ocr, 2000)
                 print('-- asking ChatGPT to summarize')
                 answer = chatgpt(ocr)
                 pdfs.at[i, 'summary'] = answer if "Response Error" not in answer else None
