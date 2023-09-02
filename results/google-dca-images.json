@@ -1,5 +1,5 @@
 {
-  "range": "Images!A1:N1553",
+  "range": "'_images'!A1:N1547",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -83,19 +83,9 @@
       "district 3 courthouse images"
     ],
     [
-      "3",
-      "http://wpc.1a57.edgecastcdn.net/001A57/itso/DCA/3DCA-Electronic-Transcript-Preparation-presentation.mp4",
-      "3DCA Electronic Transcript Preparation presentation"
-    ],
-    [
       "2",
       "https://www.courts.ca.gov/images/dca_dist2.jpg",
       "2nd District Court of Appeal courthouses in Ventura and Los Angeles"
-    ],
-    [
-      "2",
-      "https://www.courts.ca.gov/documents/NormanLEpstein.jpg",
-      "NormanLEpstein"
     ],
     [
       "",
@@ -116,11 +106,6 @@
       "",
       "https://www.courts.ca.gov/images/icon-video-short.gif",
       "icon video short"
-    ],
-    [
-      "1",
-      "https://www.courts.ca.gov/images/Terence-Bruiniers-2.PNG",
-      "Photo of Justice Terence L. Bruiniers"
     ],
     [
       "1",
@@ -395,11 +380,6 @@
     [
       "2",
       "https://www.courts.ca.gov/images/Klein.jpg",
-      "Justice Joan Klein"
-    ],
-    [
-      "2",
-      "https://www.courts.ca.gov/images/Sandy_R_Kriegler.PNG",
       "Justice Joan Klein"
     ],
     [
@@ -794,11 +774,6 @@
     ],
     [
       "3",
-      "https://www.courts.ca.gov/images/3dca-justices.jpg",
-      "3rd District Court of Appeal Justices"
-    ],
-    [
-      "3",
       "https://www.courts.ca.gov/images/image544.jpg",
       "Norton Parker Chipman"
     ],
@@ -896,11 +871,6 @@
       "4",
       "https://www.courts.ca.gov/images/JDo_photo.jpg",
       "Truc T. Do"
-    ],
-    [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-J-Buchanan-photo.JPG",
-      "Martin N. Buchanan"
     ],
     [
       "4",
