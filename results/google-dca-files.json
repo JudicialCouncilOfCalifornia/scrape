@@ -1,4350 +1,2235 @@
 {
-  "range": "Files!A1:O2079",
+  "range": "'_all_files'!A1:Z1000",
   "majorDimension": "ROWS",
   "values": [
     [
-      "district",
-      "url",
-      "title",
-      "name"
+      "url"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/images/dca_dist6.jpg",
-      "district 6 court house images",
-      "district 6 court house images"
+      "https://www.courts.ca.gov/documents/app006.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/images/6DCA_FIRST_COHORT.jpg",
-      "6DCA FIRST COHORT",
-      "6DCA FIRST COHORT"
+      "https://www.courts.ca.gov/documents/eotcrim.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/btn_eFilingGoGreen.jpg",
-      "Electronic Filing",
-      "Electronic Filing"
+      "https://www.courts.ca.gov/documents/eotjuv.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/btn_SearchCaseInformation.jpg",
-      "Search Case Information",
-      "Search Case Information"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/gallery/btn_appellate_self-help.jpg",
-      "Appellate Self-Help",
-      "Appellate Self-Help"
+      "https://www.courts.ca.gov/documents/app004.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/ada_box_top.jpg",
-      "The California Courts are dedicated to ensuring that all qualified individuals with disabilities have equal and full access to the judicial system.",
-      "The California Courts are dedicated to ensuring that all qualified individuals with disabilities have equal and full access to the judicial system."
+      "https://www.courts.ca.gov/documents/eotclerk.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/ada_box_bottom.jpg",
-      "ada box bottom",
-      "ada box bottom"
+      "https://www.courts.ca.gov/documents/dockcrim.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-23-001.pdf",
-      "Miscellaneous\\xa0Order 23-001",
-      "Miscellaneous\\xa0Order 23-001"
+      "https://www.courts.ca.gov/documents/dockjuv.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6DCA-Habeas-Attorney-Applicants.pdf",
-      "View for more information regarding applying for an appointment",
-      "View for more information regarding applying for an appointment"
+      "https://www.courts.ca.gov/documents/mc040.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCA-Guide-To-Electronic-Appellate-Documents.pdf",
-      "Guide to Creating Electronic Appellate Documents",
-      "Guide to Creating Electronic Appellate Documents"
+      "https://www.courts.ca.gov/documents/eotrptr.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/ctappbro.pdf",
-      "A Visitor\\'s Guide to the Court of Appeal",
-      "A Visitor\\'s Guide to the Court of Appeal"
+      "https://www.courts.ca.gov/documents/app007.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/images/dca_map_rdax_200x253s.jpg",
-      "Color coded map of the 6 districts of the Courts of Appeal",
-      "Color coded map of the 6 districts of the Courts of Appeal"
+      "https://www.courts.ca.gov/documents/fw001.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/dca_dist4.jpg",
-      "district 4 court house images",
-      "district 4 court house images"
+      "https://www.courts.ca.gov/documents/Request_for_OA_form.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Prop66-Recruitment.pdf",
-      "View for more information regarding applying for an appointment",
-      "View for more information regarding applying for an appointment"
+      "https://www.courts.ca.gov/documents/subattyciv.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-Guidelines-for-E-Reporters-Transcripts.pdf",
-      "Guidelines for E-Reporters Transcript",
-      "Guidelines for E-Reporters Transcript"
+      "https://www.courts.ca.gov/documents/recordstip.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Appellate-Self-Help-Workshop-2023.pdf",
-      "San Diego Civil Appellate Self Help Workshop",
-      "San Diego Civil Appellate Self Help Workshop"
+      "https://www.courts.ca.gov/documents/1DCA-e-devices-policy.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/dca-TrueFiling-Quick-Start-Guide.pdf",
-      "TrueFiling Quick Start Guide",
-      "TrueFiling Quick Start Guide"
+      "https://www.courts.ca.gov/documents/complnce.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Electronic-Devices-in-the-Courtroom.pdf",
-      "Public Use of Electronic Devices in Court of Appeal Court Rooms",
-      "Public Use of Electronic Devices in Court of Appeal Court Rooms"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/dca_dist5.jpg",
-      "district 5 court house images",
-      "district 5 court house images"
+      "https://www.courts.ca.gov/documents/2DCA-04.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/btn_5DCAOralArgumentViewCalendar_orange.png",
-      "Fifth District Court of Appeal Oral Argument Webcast, View Calendar",
-      "Fifth District Court of Appeal Oral Argument Webcast, View Calendar"
+      "https://www.courts.ca.gov/documents/APP-006.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/btn-selfhelp-immigration.png",
-      "Immigration Resources Button",
-      "Immigration Resources Button"
+      "https://www.courts.ca.gov/documents/CR-126.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Fee_Schedule_07.01.23_5DCA.pdf",
-      "Fee Schedule 07.01.23 5DCA",
-      "Fee Schedule 07.01.23 5DCA"
+      "https://www.courts.ca.gov/documents/JV-816.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Administrative-Order-2023-3-10.pdf",
-      "Administrative Order 2023-3-10",
-      "Administrative Order 2023-3-10"
+      "https://www.courts.ca.gov/documents/JV-817.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Prop66-Recruitment.pdf",
-      "how to apply for an appointment",
-      "how to apply for an appointment"
+      "https://www.courts.ca.gov/documents/2DCA-02.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Security-Screening-Procedures.pdf",
-      "Security Screening Procedures",
-      "Security Screening Procedures"
+      "https://www.courts.ca.gov/documents/Stip_Ext_Time_CIV_APP-01.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca-Reporter-Transcripts-Formatting-Guidelines.pdf",
-      "Formatting Guidelines for Reporters Transcripts",
-      "Formatting Guidelines for Reporters Transcripts"
+      "https://www.courts.ca.gov/documents/app002.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-SuperiorCourts-ReferenceManual.pdf",
-      "Reference Manual for Appeals",
-      "Reference Manual for Appeals"
+      "https://www.courts.ca.gov/documents/cr120.pdf"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/trial-court-records-manual.pdf",
-      "Trial Court Records Manual",
-      "Trial Court Records Manual"
+      "https://www.courts.ca.gov/documents/jv800.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/dca_dist1.jpg",
-      "district 1 court house images",
-      "district 1 court house images"
+      "https://www.courts.ca.gov/documents/NoticeofAppeal-Mental_Health_APP-060.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Oral_Arg_Webcast_Button.png",
-      "Search Case Information",
-      "Search Case Information"
+      "https://www.courts.ca.gov/documents/2DCA-05.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Local-Rule-Changes-20230605.pdf",
-      "Local Rule Changes 20230605",
-      "Local Rule Changes 20230605"
+      "https://www.courts.ca.gov/documents/2DCA-06.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Misc._order_2023-1_031323.pdf",
-      "Misc. order 2023-1 031323",
-      "Misc. order 2023-1 031323"
+      "https://www.courts.ca.gov/documents/2DCA-07.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1DCA-Prop66-Recruitment.pdf",
-      "how to apply for an appointment",
-      "how to apply for an appointment"
+      "https://www.courts.ca.gov/documents/app005.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/dca_dist3.jpg",
-      "district 3 courthouse images",
-      "district 3 courthouse images"
+      "https://www.courts.ca.gov/documents/2DCA-oral-argument-request-form.pdf"
     ],
     [
-      "",
-      "https://newsroom.courts.ca.gov/sites/default/files/newsroom/2022-03/Statewide%20Order%20Changes%20by%20CJ-Chair%20of%20JC%20%28030322%29.pdf",
-      "Statewide Order Changes by CJ Chair of JC %28030322%29",
-      "Statewide Order Changes by CJ Chair of JC %28030322%29"
+      "https://www.courts.ca.gov/documents/2DCA-record-request-form.pdf"
     ],
     [
-      "3",
-      "http://wpc.1a57.edgecastcdn.net/001A57/itso/DCA/3DCA-Electronic-Transcript-Preparation-presentation.mp4",
-      "3DCA Electronic Transcript Preparation presentation",
-      "3DCA Electronic Transcript Preparation presentation"
+      "https://www.courts.ca.gov/documents/fw001.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3dca_APPEALS-TRANSCRIPT-TRAINING-MANUAL.pdf",
-      "training materials",
-      "training materials"
+      "https://www.courts.ca.gov/documents/fw016.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DC_EmergencyOrder_04092020.pdf",
-      "3DC EmergencyOrder 04092020",
-      "3DC EmergencyOrder 04092020"
+      "https://www.courts.ca.gov/documents/l1013.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DC_ImplementationOrder_04132020.pdf",
-      "3DC ImplementationOrder 04132020",
-      "3DC ImplementationOrder 04132020"
+      "https://www.courts.ca.gov/documents/mc410.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DC_EmergencyOrder_04152020.pdf",
-      "3DC EmergencyOrder 04152020",
-      "3DC EmergencyOrder 04152020"
+      "https://www.courts.ca.gov/documents/app007.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DC_ImplementationOrder_04172020.pdf",
-      "3DC ImplementationOrder 04172020",
-      "3DC ImplementationOrder 04172020"
+      "https://www.courts.ca.gov/documents/2DCA-16.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3dca-MiscOrder2020-001.pdf",
-      "3dca MiscOrder2020 001",
-      "3dca MiscOrder2020 001"
+      "https://www.courts.ca.gov/documents/app-004-2DCA.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/appdistmap.pdf",
-      "boundaries of the Third Appellate District",
-      "boundaries of the Third Appellate District"
+      "https://www.courts.ca.gov/documents/app-001-2DCA.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/hc100.pdf",
-      "form HC-100 Declaration of Counsel Re Minimum Qualifications for Appointment in Death Penalty-Related Habeas Corpus Proceedings",
-      "form HC-100 Declaration of Counsel Re Minimum Qualifications for Appointment in Death Penalty-Related Habeas Corpus Proceedings"
+      "https://www.courts.ca.gov/documents/fw015info.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/dca_dist2.jpg",
-      "2nd District Court of Appeal courthouses in Ventura and Los Angeles",
-      "2nd District Court of Appeal courthouses in Ventura and Los Angeles"
+      "https://www.courts.ca.gov/documents/jobapp.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/NormanLEpstein.jpg",
-      "NormanLEpstein",
-      "NormanLEpstein"
+      "https://www.courts.ca.gov/documents/app-003-2DCA.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2dca_Misc_ORD_2023-01.pdf",
-      "Miscellaneous Order 2023-01",
-      "Miscellaneous Order 2023-01"
+      "https://www.courts.ca.gov/documents/noticesettle-2dca14.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2dca_Misc_ORD_2022-02.pdf",
-      "2dca Misc ORD 2022 02",
-      "2dca Misc ORD 2022 02"
+      "https://www.courts.ca.gov/documents/party-ident-sheet.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2dca-Appellate-Attorney-Central-Staff-0422.pdf",
-      "View more information about the Appellate Court Attorney position.",
-      "View more information about the Appellate Court Attorney position."
+      "https://www.courts.ca.gov/documents/2DCA-15_POS.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-Prop66-Recruitment.pdf",
-      "View for more information regarding applying for an appointment",
-      "View for more information regarding applying for an appointment"
+      "https://www.courts.ca.gov/documents/subattyciv.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/habeas_panel.pdf",
-      "HCRC Panel",
-      "HCRC Panel"
+      "https://www.courts.ca.gov/documents/verification.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2dca_Misc_Order_2022-01.pdf",
-      "Miscellaneous Order 2022-01",
-      "Miscellaneous Order 2022-01"
+      "https://www.courts.ca.gov/documents/2dca_Misc_Order_2022-01.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-Electronic-Formatting-Req-Guide.pdf",
-      "2DCA Formatting Requirements and Guidelines",
-      "2DCA Formatting Requirements and Guidelines"
+      "https://www.courts.ca.gov/documents/2dca_Misc_Order_2022-02..pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/dca2-guide-to-consecutive-pagination.pdf",
-      "Consecutive Pagination Across Multiple PDF Files",
-      "Consecutive Pagination Across Multiple PDF Files"
+      "https://www.courts.ca.gov/documents/2dca_Misc_ORD_2023-01.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Consecutive_Pagination_Across_Multiple_PDF_Files-Adobe_DC.pdf",
-      "Consecutive Pagination Across Multiple PDF Files Adobe DC",
-      "Consecutive Pagination Across Multiple PDF Files Adobe DC"
+      "https://www.courts.ca.gov/documents/app004.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-eFiling-guidelines.pdf",
-      "Electronic Filing Guidelines",
-      "Electronic Filing Guidelines"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-eFiling-Adobe-PDF-Bookmark-Zoom-Settings.pdf",
-      "PDF Bookmark Zoom Settings",
-      "PDF Bookmark Zoom Settings"
+      "https://www.courts.ca.gov/documents/app006.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Brief.pdf",
-      "2DCA eFiling Sample Brief",
-      "2DCA eFiling Sample Brief"
+      "https://www.courts.ca.gov/documents/cr126.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Appendix.pdf",
-      "2DCA eFiling Sample Appendix",
-      "2DCA eFiling Sample Appendix"
+      "https://www.courts.ca.gov/documents/jv816.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Writ-Petition.pdf",
-      "2DCA eFiling Sample Writ Petition",
-      "2DCA eFiling Sample Writ Petition"
+      "https://www.courts.ca.gov/documents/jv817.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Writ-Exhibits.pdf",
-      "2DCA eFiling Sample Writ Exhibits",
-      "2DCA eFiling Sample Writ Exhibits"
+      "https://www.courts.ca.gov/documents/ext-trial.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Exhibits-Motion-Request-Application.pdf",
-      "Sample Motion/Request/Application with Exhibits",
-      "Sample Motion/Request/Application with Exhibits"
+      "https://www.courts.ca.gov/documents/app002.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-Hours-Courtroom.pdf",
-      "Hours of Operation & Courtroom",
-      "Hours of Operation & Courtroom"
+      "https://www.courts.ca.gov/documents/app003.pdf"
     ],
     [
-      "",
-      "https://selfhelp.appellate.courts.ca.gov/wp-content/uploads/2018/08/ehelp-logo-1-300x129.png",
-      "Image of Court of Appeals Self-Help Center logo",
-      "Image of Court of Appeals Self-Help Center logo"
+      "https://www.courts.ca.gov/documents/app004.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/2023-6dca-calendar-portrait.pdf",
-      "Oral Argument Calendar Dates",
-      "Oral Argument Calendar Dates"
+      "https://www.courts.ca.gov/documents/app005.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/AppellateJudicialMentorApplication.pdf",
-      "AppellateJudicialMentorApplication",
-      "AppellateJudicialMentorApplication"
+      "https://www.courts.ca.gov/documents/app006.pdf"
     ],
     [
-      "",
-      "https://www.scscourt.org/court_divisions/appellate/appellate_home.shtml",
-      "Santa Clara County Superior Court Appeals Division",
-      "Santa Clara County Superior Court Appeals Division"
+      "https://www.courts.ca.gov/documents/app007.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app005.pdf",
-      "APP-005: Abandonment of Appeal (Unlimited Civil Case)",
-      "APP-005: Abandonment of Appeal (Unlimited Civil Case)"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app006.pdf",
-      "APP-006: Application for Extension of Time to File Brief (Civil Case)",
-      "APP-006: Application for Extension of Time to File Brief (Civil Case)"
+      "https://www.courts.ca.gov/documents/cr120.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/fw001.pdf",
-      "FW-001",
-      "FW-001"
+      "https://www.courts.ca.gov/documents/jv825.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6DCA-AugOrderCV.pdf",
-      "Augmentation of Record Proposed Order (Civil)",
-      "Augmentation of Record Proposed Order (Civil)"
+      "https://www.courts.ca.gov/documents/4dca-local-rules-2023.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app008.pdf",
-      "Certificate of Interested Entities or Persons",
-      "Certificate of Interested Entities or Persons"
+      "https://www.courts.ca.gov/documents/4DCA-Misc-Order-010317.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app004.pdf",
-      "Civil Case Information Statement",
-      "Civil Case Information Statement"
+      "https://www.courts.ca.gov/documents/4dcaapp.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app009info.pdf",
-      "Information Sheet For Proof of Service",
-      "Information Sheet For Proof of Service"
+      "https://www.courts.ca.gov/documents/ltrlweb.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app015info.pdf",
-      "Information Sheet on Waiver of Appellate Court Fees",
-      "Information Sheet on Waiver of Appellate Court Fees"
+      "https://www.courts.ca.gov/documents/sd1.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app002.pdf",
-      "APP-002: Notice of Appeal/Cross-Appeal (Unlimited Civil Case)",
-      "APP-002: Notice of Appeal/Cross-Appeal (Unlimited Civil Case)"
+      "https://www.courts.ca.gov/documents/4DCA-CivilCourtReporterEOT-Form.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app003.pdf",
-      "APP-003: Notice Designating Record on Appeal (Unlimited Civil Case)",
-      "APP-003: Notice Designating Record on Appeal (Unlimited Civil Case)"
+      "https://www.courts.ca.gov/documents/4DCA-Div1-Confidential-Settlement-Questionnaire.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app009.pdf",
-      "Proof of Service",
-      "Proof of Service"
+      "https://www.courts.ca.gov/documents/not_inc_juv_rec.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app007.pdf",
-      "APP-007: Request for Dismissal of Appeal (Civil Case)",
-      "APP-007: Request for Dismissal of Appeal (Civil Case)"
+      "https://www.courts.ca.gov/documents/basic_app_proc.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app010.pdf",
-      "Respondent\\'s Notice Designating Record on Appeal (Unlimited Civil Case)",
-      "Respondent\\'s Notice Designating Record on Appeal (Unlimited Civil Case)"
+      "https://www.courts.ca.gov/documents/civ_app_handout.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app011.pdf",
-      "Respondent\\'s Notice Electing to Use an Appendix (Unlimited Civil Case)",
-      "Respondent\\'s Notice Electing to Use an Appendix (Unlimited Civil Case)"
+      "https://www.courts.ca.gov/documents/4DCA-Div1-Handout-on-Writs.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6DCA-AugOrderCR.pdf",
-      "Augmentation of Record Proposed Order (Criminal)",
-      "Augmentation of Record Proposed Order (Criminal)"
+      "https://www.courts.ca.gov/documents/4DCA-011314-Exception-to-Rule-8-47-c-1.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cr120.pdf",
-      "CR-120: Notice of Appeal-Felony (Defendant)",
-      "CR-120: Notice of Appeal-Felony (Defendant)"
+      "https://www.courts.ca.gov/documents/4DCA-div1-Electronic-Transcript-to-Minors-Counsel.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cr126.pdf",
-      "Application for Extension of Time to File Brief\\xa0(Criminal and Juvenile)",
-      "Application for Extension of Time to File Brief\\xa0(Criminal and Juvenile)"
+      "https://www.courts.ca.gov/documents/4dca-div1-Juvenile-Transcripts.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jv816.pdf",
-      "Application for Extension of Time to File Brief (Juvenile Delinquency Case)",
-      "Application for Extension of Time to File Brief (Juvenile Delinquency Case)"
+      "https://www.courts.ca.gov/documents/4dca-div1-020411B-Criminal-Augment-Order.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jv817.pdf",
-      "Application for Extension of Time to File Brief (Juvenile Dependency Case)",
-      "Application for Extension of Time to File Brief (Juvenile Dependency Case)"
+      "https://www.courts.ca.gov/documents/4dca-div1-020411A-Juvenile-Augment-Order.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app031a.pdf",
-      "Attached Declaration APP-031(A)",
-      "Attached Declaration APP-031(A)"
+      "https://www.courts.ca.gov/documents/4dca-div1-061218-Oral-Argument-Time-Limit-Order.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app012.pdf",
-      "APP-012 Stipulation for Extension of Time to File Brief",
-      "APP-012 Stipulation for Extension of Time to File Brief"
+      "https://www.courts.ca.gov/documents/4dca-div1-052010-AG-email-service-order.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-Court-Reporters-Instructions-for-Filing-Extension-Requests.pdf",
-      "Court Reporters - Instructions for Filing Extension Requests",
-      "Court Reporters - Instructions for Filing Extension Requests"
+      "https://www.courts.ca.gov/documents/4dca-div1-112812-ADI-access-to-superior-court-records.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-Court-Reporters-Request-for-Extension-of-Time-Civil.pdf",
-      "Court Reporters Request for Extension of Time - Civil",
-      "Court Reporters Request for Extension of Time - Civil"
+      "https://www.courts.ca.gov/documents/4dca-div1-misc-order-111816-rule-time-civil-reporters.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-Court-Reporters-Request-for-Extension-of-Time-Criminal-and-Juvenile.pdf",
-      "Court Reporters Request for Extension of Time - Criminal/Juvenile Delinquency",
-      "Court Reporters Request for Extension of Time - Criminal/Juvenile Delinquency"
+      "https://www.courts.ca.gov/documents/4dcaapp.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jv800.pdf",
-      "JV-800",
-      "JV-800"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jv810.pdf",
-      "JV-817",
-      "JV-817"
+      "https://www.courts.ca.gov/documents/4dca-div2-miscellaneous-orders.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jv825.pdf",
-      "JV-825: Petition for Extraordinary Writ-Juvenile Dependency",
-      "JV-825: Petition for Extraordinary Writ-Juvenile Dependency"
+      "https://www.courts.ca.gov/documents/4DCA-011314-Exception-to-Rule-8-47-c-1.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6DCA-Mediation-Statement-Form.pdf",
-      "6DCA Mediation Statement Form",
-      "6DCA Mediation Statement Form"
+      "https://www.courts.ca.gov/documents/4dcaapp.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-22-001.pdf",
-      "Miscellaneous\\xa0Order 22-001",
-      "Miscellaneous\\xa0Order 22-001"
+      "https://www.courts.ca.gov/documents/app004.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca_21-001.pdf",
-      "Miscellaneous\\xa0Order 21-001",
-      "Miscellaneous\\xa0Order 21-001"
+      "https://www.courts.ca.gov/documents/4DCA3-NoticeSettlement.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Second-Emergency-Order-4-15-20.pdf",
-      "Emergency Order dated 4/15",
-      "Emergency Order dated 4/15"
+      "https://www.courts.ca.gov/documents/4DCA-StipDismissal-form.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Second-Implentation-Order-4-16-20.pdf",
-      "Order dated 4/16",
-      "Order dated 4/16"
+      "https://www.courts.ca.gov/documents/4d3oa-request.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Emergency-Order-4-9-2020.pdf",
-      "Emergency Order dated 4/9",
-      "Emergency Order dated 4/9"
+      "https://www.courts.ca.gov/documents/4d3oa-recording.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Implentation-Order-for-rule-8.66.pdf",
-      "Order dated 4/9",
-      "Order dated 4/9"
+      "https://www.courts.ca.gov/documents/4dca-div3-misc-order-2016-1.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-20-001.pdf",
-      "Miscellaneous Order 20-001",
-      "Miscellaneous Order 20-001"
+      "https://www.courts.ca.gov/documents/4DCA-011314-Exception-to-Rule-8-47-c-1.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-20-002.pdf",
-      "2",
-      "Miscellaneous Order 20-002"
+      "https://www.courts.ca.gov/documents/juvdepend-doccopy-dca4div3.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/031820_6DCA_SIGNED_Emergency_Order.pdf",
-      "031820 6DCA SIGNED Emergency Order",
-      "031820 6DCA SIGNED Emergency Order"
+      "https://www.courts.ca.gov/documents/pet-rehearing-dca4div3.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Implementation_Order_for_Emergency_Order.pdf",
-      "Order dated 3/18",
-      "Order dated 3/18"
+      "https://www.courts.ca.gov/documents/4d3-miscordershortfall.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-19-01.pdf",
-      "Miscellaneous Order 19-01\\xa0\\xa0",
-      "Miscellaneous Order 19-01\\xa0\\xa0"
+      "https://www.courts.ca.gov/documents/Request_for_Extension_of_Time_5DCA_0922.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-17-01.pdf",
-      "Miscellaneous Order 17-01",
-      "Miscellaneous Order 17-01"
+      "https://www.courts.ca.gov/documents/5district_writ.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-14-1.pdf",
-      "Miscellaneous Order 14-1",
-      "Miscellaneous Order 14-1"
+      "https://www.courts.ca.gov/documents/5DCA-Criminal-Case-Information-Sheet.doc"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6dca-policy-statement-phoenix-H.pdf",
-      "Phoenix H Policy Statement",
-      "Phoenix H Policy Statement"
+      "https://www.courts.ca.gov/documents/5DCA-Notification-of-Filing-Notice-of-Appeal-Civil.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jv820.pdf",
-      "JV-820",
-      "JV-820"
+      "https://www.courts.ca.gov/documents/5DCA-Notification-of-Filing-Notice-of-Appeal-Criminal.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/sample_order_ext_request.pdf",
-      "sample order",
-      "sample order"
+      "https://www.courts.ca.gov/documents/5DCA-Notification-of-Filing-Notice-of-Appeal-Dependency.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/mc275.pdf",
-      "MC-275",
-      "MC-275"
+      "https://www.courts.ca.gov/documents/5dca_mediation_questionnaire_filable.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6DCAproc.pdf",
-      "6DCAproc",
-      "6DCAproc"
+      "https://www.courts.ca.gov/documents/5dca_mediation_questionnaire.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/6DCAproc.doc",
-      "6DCAproc",
-      "6DCAproc"
+      "https://www.courts.ca.gov/documents/app004.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/IOP_District6.pdf",
-      "IOP District6",
-      "IOP District6"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Bookmarks-and-Pagination.pdf",
-      "Tips on Adobe PDF Bookmark Settings",
-      "Tips on Adobe PDF Bookmark Settings"
+      "https://www.courts.ca.gov/documents/app009.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Adobe-PDF-Bookmark-Zoom-Settings.pdf",
-      "PDF Bookmark Zoom Settings",
-      "PDF Bookmark Zoom Settings"
+      "https://www.courts.ca.gov/documents/Administrative-Order-2023-3-10.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Briefs.pdf",
-      "DCASC Formatting Guidelines Briefs",
-      "DCASC Formatting Guidelines Briefs"
+      "https://www.courts.ca.gov/documents/5dca-Administrative-Order-2022-3-14.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Sample-AOB.pdf",
-      "DCASC Sample AOB",
-      "DCASC Sample AOB"
+      "https://www.courts.ca.gov/documents/4th-Implementation-Order-2020-04-20.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Petitions.pdf",
-      "DCASC Formatting Guidelines Petitions",
-      "DCASC Formatting Guidelines Petitions"
+      "https://www.courts.ca.gov/documents/2020-04-16_OFF.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Sample-Writ-Petition.pdf",
-      "DCASC Sample Writ Petition",
-      "DCASC Sample Writ Petition"
+      "https://www.courts.ca.gov/documents/Signed-EO-Joint-request-for-DCAs.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Sample-Petition-for-transfer.pdf",
-      "Sample Petition for Transfer",
-      "Sample Petition for Transfer"
+      "https://www.courts.ca.gov/documents/2nd-Implementation-Order-041320.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Appendix.pdf",
-      "DCASC Formatting Guidelines Appendix",
-      "DCASC Formatting Guidelines Appendix"
+      "https://www.courts.ca.gov/documents/Implementation_Order_for_EO_5th.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Sample-Appendix.pdf",
-      "DCASC Sample Appendix",
-      "DCASC Sample Appendix"
+      "https://www.courts.ca.gov/documents/Signed-EO-5DCA.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Exhibits-to-Petition.pdf",
-      "DCASC Formatting Guidelines Exhibits to Petition",
-      "DCASC Formatting Guidelines Exhibits to Petition"
+      "https://www.courts.ca.gov/documents/Order-COVID19-5dca.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Sample-Writ-Exhibits.pdf",
-      "DCASC Sample Writ Exhibits",
-      "DCASC Sample Writ Exhibits"
+      "https://www.courts.ca.gov/documents/5dca-mo20180108.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-TrueFiling-3_0-Quick-Start-Guide.pdf",
-      "TrueFiling Quick Start",
-      "TrueFiling Quick Start"
+      "https://www.courts.ca.gov/documents/5dca-mo061411.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-eFiling-FAQs.pdf",
-      "DCASC eFiling FAQs",
-      "DCASC eFiling FAQs"
+      "https://www.courts.ca.gov/documents/app005.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/images/GW_230509_0778-CofA-6th-Bench_web.jpg",
-      "GW 230509 0778 CofA 6th Bench web",
-      "GW 230509 0778 CofA 6th Bench web"
+      "https://www.courts.ca.gov/documents/app006.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/placement-criteria-coadefense(1).pdf",
-      "Criteria for Placement on a Court of Appeal Indigent Defense Panel",
-      "Criteria for Placement on a Court of Appeal Indigent Defense Panel"
+      "https://www.courts.ca.gov/documents/fw001.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/AOC_and_Appellate_Project_Information_Sheet-and-STD-204-Form.pdf",
-      "Judicial Council of California and Appellate Projects Attorney Information Sheet, Instructions and STD 204 form",
-      "Judicial Council of California and Appellate Projects Attorney Information Sheet, Instructions and STD 204 form"
+      "https://www.courts.ca.gov/documents/6DCA-AugOrderCV.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cac-appellate-claim-form.doc",
-      "Claim Form",
-      "Claim Form"
+      "https://www.courts.ca.gov/documents/app008.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cac-direct-deposit-form.docx",
-      "Direct Deposit Form",
-      "Direct Deposit Form"
+      "https://www.courts.ca.gov/documents/app004.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cac-direct-deposit-faqs.pdf",
-      "Direct Deposit FAQs",
-      "Direct Deposit FAQs"
+      "https://www.courts.ca.gov/documents/app009info.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cac-update-0211.pdf",
-      "February 2011",
-      "February 2011"
+      "https://www.courts.ca.gov/documents/app015info.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/cac-update-1109.pdf",
-      "November 2009",
-      "November 2009"
+      "https://www.courts.ca.gov/documents/app002.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Anderson.jpg",
-      "Photo of Justice Carl W. Anderson",
-      "Photo of Justice Carl W. Anderson"
+      "https://www.courts.ca.gov/documents/app003.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/icon-video-short.gif",
-      "icon video short",
-      "icon video short"
+      "https://www.courts.ca.gov/documents/app009.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Terence-Bruiniers-2.PNG",
-      "Photo of Justice Terence L. Bruiniers",
-      "Photo of Justice Terence L. Bruiniers"
+      "https://www.courts.ca.gov/documents/app007.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Deal.jpg",
-      "Photo of Associate Justice Betty B. Deal",
-      "Photo of Associate Justice Betty B. Deal"
+      "https://www.courts.ca.gov/documents/app010.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Robert_Dondero_2.jpg",
-      "Photo of Associate Justice Robert L. Dossee",
-      "Justice R L Dondero"
+      "https://www.courts.ca.gov/documents/app011.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Dossee.jpg",
-      "Photo of Associate Justice Robert L. Dossee",
-      "Photo of Associate Justice Robert L. Dossee"
+      "https://www.courts.ca.gov/documents/6DCA-AugOrderCR.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Haning.jpg",
-      "Photo of Associate Justice Zerne Haning III",
-      "Photo of Associate Justice Zerne Haning III"
+      "https://www.courts.ca.gov/documents/cr120.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Hanlon.jpg",
-      "Photo of Justice Daniel M. Hanlon",
-      "Photo of Justice Daniel M. Hanlon"
+      "https://www.courts.ca.gov/documents/app006.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Kane.jpg",
-      "Photo of Associate Justice Robert F. Kane",
-      "Photo of Associate Justice Robert F. Kane"
+      "https://www.courts.ca.gov/documents/cr126.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Kay.jpg",
-      "Photo of Justice Laurence D. Kay",
-      "Photo of Justice Laurence D. Kay"
+      "https://www.courts.ca.gov/documents/jv816.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/King_Donald.jpg",
-      "Photo of Associate Justice Donald B. King",
-      "Photo of Associate Justice Donald B. King"
+      "https://www.courts.ca.gov/documents/jv817.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/kline-30.jpg",
-      "Photo of Associate Justice Donald B. King",
-      "Justice J. Anthony Kline\r"
+      "https://www.courts.ca.gov/documents/app031a.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Low.jpg",
-      "Photo of Justice Harry W. Low",
-      "Photo of Justice Harry W. Low"
+      "https://www.courts.ca.gov/documents/app012.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/aclp-marchiano.jpg",
-      "Photo of Justice James J. Marchiano",
-      "Photo of Justice James J. Marchiano"
+      "https://www.courts.ca.gov/documents/6dca-Court-Reporters-Instructions-for-Filing-Extension-Requests.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Newsom.jpg",
-      "Photo of Associate Justice William A. Newsom, Jr.",
-      "Photo of Associate Justice William A. Newsom, Jr."
+      "https://www.courts.ca.gov/documents/6dca-Court-Reporters-Request-for-Extension-of-Time-Civil.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Parrilli.jpg",
-      "Photo of Associate Justice Joanne C. Parrilli",
-      "Photo of Associate Justice Joanne C. Parrilli"
+      "https://www.courts.ca.gov/documents/6dca-Court-Reporters-Request-for-Extension-of-Time-Criminal-and-Juvenile.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Peterson.jpg",
-      "Photo of Justice J. Clinton Peterson",
-      "Photo of Justice J. Clinton Peterson"
+      "https://www.courts.ca.gov/documents/jv800.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Poche.jpg",
-      "Photo of Associate Justice Marcel Poche",
-      "Photo of Associate Justice Marcel Poche"
+      "https://www.courts.ca.gov/documents/jv810.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Stuart-Pollak-1.jpg",
-      "Photo of Justice Stuart R. Pollak",
-      "Photo of Justice Stuart R. Pollak"
+      "https://www.courts.ca.gov/documents/jv825.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Racanelli.jpg",
-      "Photo of Associate Justice John T. Racanelli",
-      "Photo of Associate Justice John T. Racanelli"
+      "https://www.courts.ca.gov/documents/6DCA-Mediation-Statement-Form.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/ACLP-1-Rivera-151x101.jpg",
-      "Photo of Justice Maria Rivera",
-      "Photo of Justice Maria Rivera"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-23-001.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Ruvolo.jpg",
-      "Photo of Justice Maria Rivera",
-      "Justice Ignazio (\"Nace\") John Ruvolo"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-22-001.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Sabraw.jpg",
-      "Justice M.O. Sabraw",
-      "Justice M.O. Sabraw"
+      "https://www.courts.ca.gov/documents/6dca_21-001.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Photo-SANCHEZ-1b.jpg",
-      "Justice M.O. Sabraw",
-      "Justice Gabriel P. Sanchez"
+      "https://www.courts.ca.gov/documents/Second-Emergency-Order-4-15-20.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Sepulveda.jpg",
-      "Justice Sepulveda",
-      "Justice Sepulveda"
+      "https://www.courts.ca.gov/documents/Second-Implentation-Order-4-16-20.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Siggins-photo-10.jpg",
-      "Justice Sepulveda",
-      "Justice Peter J. Siggins"
+      "https://www.courts.ca.gov/documents/Emergency-Order-4-9-2020.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Strankman.jpg",
-      "Justice Gary E. Strankman",
-      "Justice Gary E. Strankman"
+      "https://www.courts.ca.gov/documents/Implentation-Order-for-rule-8.66.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Swager.jpg",
-      "Justice Douglas E. Swager",
-      "Justice Douglas E. Swager"
+      "https://www.courts.ca.gov/documents/031820_6DCA_SIGNED_Emergency_Order.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/images/Walker.jpg",
-      "Justice Herbert W. Walker",
-      "Justice Herbert W. Walker"
+      "https://www.courts.ca.gov/documents/Implementation_Order_for_Emergency_Order.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Abbe.jpg",
-      "Justice Richard Abbe",
-      "Justice Richard Abbe"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-20-001.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Alarcon.jpg",
-      "Justice Arthur L. Alarcon",
-      "Justice Arthur L. Alarcon"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-19-01.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/aclp-Aldrich-151x101.jpg",
-      "Justice Richard Aldrich",
-      "Justice Richard Aldrich"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-17-01.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Armstrong-151x101.jpg",
-      "Justice Orville Armstrong",
-      "Justice Orville Armstrong"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-14-1.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Ashby-151x101.jpg",
-      "Justice Herbert L. Ashby",
-      "Justice Herbert L. Ashby"
+      "https://www.courts.ca.gov/documents/6dca-policy-statement-phoenix-H.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Baron.jpg",
-      "Justice Elizabeth A. Baron",
-      "Justice Elizabeth A. Baron"
+      "https://www.courts.ca.gov/documents/6DCA-Habeas-Attorney-Applicants.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Beach.jpg",
-      "Justice Edwin F. Beach",
-      "Justice Edwin F. Beach"
+      "https://www.courts.ca.gov/documents/DCA-Guide-To-Electronic-Appellate-Documents.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/aclp-boland-74x101.jpg",
-      "Justice Paul Boland",
-      "Justice Paul Boland"
+      "https://www.courts.ca.gov/documents/ctappbro.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/aclp-2-Roger-Boren-photo-151x101.jpg",
-      "Justice Roger Boren",
-      "Justice Roger Boren"
+      "https://www.courts.ca.gov/documents/4DCA-Prop66-Recruitment.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Coffee-thumb.jpg",
-      "Justice Paul Coffee",
-      "Justice Paul Coffee"
+      "https://www.courts.ca.gov/documents/4dca-div1-Guidelines-for-E-Reporters-Transcripts.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Compton.jpg",
-      "Justice Lynn Compton",
-      "Justice Lynn Compton"
+      "https://www.courts.ca.gov/documents/4DCA-Appellate-Self-Help-Workshop-2023.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Cooper_Candace.jpg",
-      "Justice Candace Cooper",
-      "Justice Candace Cooper"
+      "https://www.courts.ca.gov/documents/dca-TrueFiling-Quick-Start-Guide.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Curry.jpg",
-      "Justice Daniel Curry",
-      "Justice Daniel Curry"
+      "https://www.courts.ca.gov/documents/4DCA-Electronic-Devices-in-the-Courtroom.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Justice_Dhanidina_103122.jpg",
-      "Justice Halim Dhanidina",
-      "Justice Halim Dhanidina"
+      "https://www.courts.ca.gov/documents/5DCA-Prop66-Recruitment.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Devich.jpg",
-      "Justice Robert Devich",
-      "Justice Robert Devich"
+      "https://www.courts.ca.gov/documents/5DCA-Security-Screening-Procedures.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/NormanEpstein.jpg",
-      "Justice Brian Epstein",
-      "Justice Brian Epstein"
+      "https://www.courts.ca.gov/documents/5dca-Reporter-Transcripts-Formatting-Guidelines.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Feinerrman.jpg",
-      "Justice Robert Feinerman",
-      "Justice Robert Feinerman"
+      "https://www.courts.ca.gov/documents/5DCA-SuperiorCourts-ReferenceManual.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Fleming.jpg",
-      "Justice Macklin Fleming",
-      "Justice Macklin Fleming"
+      "http://www.courts.ca.gov/documents/trial-court-records-manual.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Gilbert-151x101.jpg",
-      "Justice Arthur Gilbert",
-      "Justice Arthur Gilbert"
+      "https://www.courts.ca.gov/documents/Local-Rule-Changes-20230605.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Goertzen.jpg",
-      "Justice Jack Goertzen",
-      "Justice Jack Goertzen"
+      "https://www.courts.ca.gov/documents/Misc._order_2023-1_031323.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Grignon.jpg",
-      "Justice Margaret Grignon",
-      "Justice Margaret Grignon"
+      "https://www.courts.ca.gov/documents/1DCA-Prop66-Recruitment.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Hastings_J_G.jpg",
-      "Justice J. Gary Hastings",
-      "Justice J. Gary Hastings"
+      "https://newsroom.courts.ca.gov/sites/default/files/newsroom/2022-03/Statewide%20Order%20Changes%20by%20CJ-Chair%20of%20JC%20%28030322%29.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Hastings_J_H.jpg",
-      "Justice James H. Hastings",
-      "Justice James H. Hastings"
+      "https://www.courts.ca.gov/documents/3dca_APPEALS-TRANSCRIPT-TRAINING-MANUAL.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Hinz.jpg",
-      "Justice Edward Hinz, Jr.",
-      "Justice Edward Hinz, Jr."
+      "https://www.courts.ca.gov/documents/3DC_EmergencyOrder_04092020.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Hufstedler.jpg",
-      "Justice Shirley Hufstedler",
-      "Justice Shirley Hufstedler"
+      "https://www.courts.ca.gov/documents/3DC_ImplementationOrder_04132020.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Jackson-151x101.jpg",
-      "Justice Frank Fackson",
-      "Justice Frank Fackson"
+      "https://www.courts.ca.gov/documents/3DC_EmergencyOrder_04152020.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Johnson_Jr_Earl.jpg",
-      "Justice Earl Johnson, Jr.",
-      "Justice Earl Johnson, Jr."
+      "https://www.courts.ca.gov/documents/3DC_ImplementationOrder_04172020.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/PattiKitching.jpg",
-      "Justice Patti Kitching",
-      "Justice Patti Kitching"
+      "https://www.courts.ca.gov/documents/3dca-MiscOrder2020-001.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Klein.jpg",
-      "Justice Joan Klein",
-      "Justice Joan Klein"
+      "https://www.courts.ca.gov/documents/appdistmap.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Sandy_R_Kriegler.PNG",
-      "Justice Joan Klein",
-      "Justice Joan Klein"
+      "https://www.courts.ca.gov/documents/hc100.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Lui.jpg",
-      "Justice Edwood Lui",
-      "Justice Edwood Lui"
+      "https://www.courts.ca.gov/documents/2DCA-Prop66-Recruitment.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Robert-Mallano.jpg",
-      "Justice Mallano",
-      "Justice Mallano"
+      "https://www.courts.ca.gov/documents/habeas_panel.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Masterson.jpg",
-      "Justice William Masterson",
-      "Justice William Masterson"
+      "https://www.courts.ca.gov/documents/2DCA-Electronic-Formatting-Req-Guide.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/mosk-151x101.jpg",
-      "mosk 151x101",
-      "Justice Richard M. Mosk"
+      "https://www.courts.ca.gov/documents/dca2-guide-to-consecutive-pagination.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Neal.jpg",
-      "Justice Richard Neal",
-      "Justice Richard Neal"
+      "https://www.courts.ca.gov/documents/Consecutive_Pagination_Across_Multiple_PDF_Files-Adobe_DC.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Nott.jpg",
-      "Justice Michael Nott",
-      "Justice Michael Nott"
+      "https://www.courts.ca.gov/documents/2DCA-eFiling-guidelines.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Ortega.jpg",
-      "Justice Reuben Ortega",
-      "Justice Reuben Ortega"
+      "https://www.courts.ca.gov/documents/4DCA-eFiling-Adobe-PDF-Bookmark-Zoom-Settings.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Perren.jpg",
-      "Justice Steven Perren",
-      "Justice Steven Perren"
+      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Brief.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Stone.jpg",
-      "Justice Steven Stone",
-      "Justice Steven Stone"
+      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Appendix.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Thompson_Robert_S.jpg",
-      "Justice Robert Thompson",
-      "Justice Robert Thompson"
+      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Writ-Petition.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Vogel-C.jpg",
-      "Justice Charles Vogel",
-      "Justice Charles Vogel"
+      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Writ-Exhibits.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Vogel-M.jpg",
-      "Justice Miriam Vogel",
-      "Justice Miriam Vogel"
+      "https://www.courts.ca.gov/documents/2DCA-eFiling-Sample-Exhibits-Motion-Request-Application.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Woods_Arleigh__M.jpg",
-      "Justice Arleigh Woods",
-      "Justice Arleigh Woods"
+      "https://www.courts.ca.gov/documents/2DCA-Hours-Courtroom.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/images/Zebrowski.jpg",
-      "Justice John Zebrowski",
-      "Justice John Zebrowski"
+      "https://www.courts.ca.gov/documents/2023-6dca-calendar-portrait.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Laurie-Zelon.jpg",
-      "Justice Laurie Zelon",
-      "Justice Laurie Zelon"
+      "https://www.courts.ca.gov/documents/AppellateJudicialMentorApplication.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Blease_Coleman_A.jpg",
-      "Justice Coleman Blease",
-      "Justice Coleman Blease"
+      "https://www.courts.ca.gov/documents/6dca-misc-order-20-002.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Callahan_Consuelo.jpg",
-      "Justice Consuelo Callahan",
-      "Justice Consuelo Callahan"
+      "https://www.courts.ca.gov/documents/jv820.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Rodney-Davis.jpg",
-      "Justice Rodney Davis",
-      "Justice Rodney Davis"
+      "https://www.courts.ca.gov/documents/sample_order_ext_request.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Evans_Hugh_A.jpg",
-      "Justice Hugh Evans",
-      "Justice Hugh Evans"
+      "https://www.courts.ca.gov/documents/mc275.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Morrison_Fred_K.jpg",
-      "Justice Fred Morrison",
-      "Justice Fred Morrison"
+      "https://www.courts.ca.gov/documents/6DCAproc.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/aclp-George-Nicholson.jpg",
-      "George W. Nicholson",
-      "George W. Nicholson"
+      "https://www.courts.ca.gov/documents/6DCAproc.doc"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Puglia_Robert_K.jpg",
-      "Justice Robert Puglia",
-      "Justice Robert Puglia"
+      "https://www.courts.ca.gov/documents/IOP_District6.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Justice_Robie_Pic.jpg",
-      "Justice Robert Puglia",
-      "Justice Robert Puglia"
+      "https://www.courts.ca.gov/documents/DCASC-Bookmarks-and-Pagination.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Scotland_151x101.jpg",
-      "Justice Arthur Scotland",
-      "Justice Arthur Scotland"
+      "https://www.courts.ca.gov/documents/DCASC-Adobe-PDF-Bookmark-Zoom-Settings.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Sims_III_Richard_M.jpg",
-      "Justice Richard Sims, III",
-      "Justice Richard Sims, III"
+      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Briefs.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/Sparks_Keith_F.jpg",
-      "Keith Sparks",
-      "Keith Sparks"
+      "https://www.courts.ca.gov/documents/DCASC-Sample-AOB.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Richard-Aronson.jpg",
-      "Richard M. Aronson",
-      "Richard M. Aronson"
+      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Petitions.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Benke-151x101.jpg",
-      "Patricia D. Benke",
-      "Patricia D. Benke"
+      "https://www.courts.ca.gov/documents/DCASC-Sample-Writ-Petition.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Brown_Gerald.jpg",
-      "Gerald Brown",
-      "Gerald Brown"
+      "https://www.courts.ca.gov/documents/DCASC-Sample-Petition-for-transfer.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Cologne_Gordon.jpg",
-      "Gordon Cologne",
-      "Gordon Cologne"
+      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Appendix.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Froehlich_Charles_W.jpg",
-      "Charles W. Froehlich",
-      "Charles W. Froehlich"
+      "https://www.courts.ca.gov/documents/DCASC-Sample-Appendix.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/aclp-4-Fybell_151x101.jpg",
-      "Richard D. Fybel",
-      "Richard D. Fybel"
+      "https://www.courts.ca.gov/documents/DCASC-Sample-Writ-Exhibits.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Gabbert_John_G.jpg",
-      "John G. Gabbert",
-      "John G. Gabbert"
+      "https://www.courts.ca.gov/documents/DCASC-TrueFiling-3_0-Quick-Start-Guide.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Gaut_Barton_C.jpg",
-      "Barton C. Gaut",
-      "Barton C. Gaut"
+      "https://www.courts.ca.gov/documents/DCASC-eFiling-FAQs.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Judith-Haller-2-151x101.jpg",
-      "Judith L. Haller",
-      "Judith L. Haller"
+      "https://www.courts.ca.gov/documents/placement-criteria-coadefense(1).pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Hollenhorst_Thomas_E.jpg",
-      "Thomas Hollenhorst",
-      "Thomas Hollenhorst"
+      "https://www.courts.ca.gov/documents/AOC_and_Appellate_Project_Information_Sheet-and-STD-204-Form.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/ACLP-4dca-Richard-Huffman-photo.jpg",
-      "Richard D. Huffman",
-      "Richard D. Huffman"
+      "https://www.courts.ca.gov/documents/cac-appellate-claim-form.doc"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Ikola.jpg",
-      "Raymond Ikola",
-      "Raymond Ikola"
+      "https://www.courts.ca.gov/documents/cac-direct-deposit-form.docx"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Kremer_Daniel_J.jpg",
-      "Daniel J. Kremer",
-      "Daniel J. Kremer"
+      "https://www.courts.ca.gov/documents/cac-direct-deposit-faqs.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Lewis_Gerald.jpg",
-      "Gerald J. Lewis",
-      "Gerald J. Lewis"
+      "https://www.courts.ca.gov/documents/cac-update-0211.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/aclp-4-McConnell_151x101.jpg",
-      "Judith D. McConnell",
-      "Judith D. McConnell"
+      "https://www.courts.ca.gov/documents/cac-update-1109.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/McDaniel_F_D.jpg",
-      "Franklin D. McDaniel",
-      "Franklin D. McDaniel"
+      "https://www.courts.ca.gov/documents/Anderson_Carl_W_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/aclp-4-mcdonald-151x101.jpg",
-      "Alex C. McDonald",
-      "Alex C. McDonald"
+      "https://www.courts.ca.gov/documents/Carl_Anderson_6043.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/aclp-4-mcintyre-151x101.jpg",
-      "James A. McIntyre",
-      "James A. McIntyre"
+      "https://www.courts.ca.gov/documents/Terence-Bruiniers-BIO.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Art-McKinster-2-151x101.jpg",
-      "Art W. McKinster",
-      "Art W. McKinster"
+      "https://www.courts.ca.gov/documents/Terence-Bruiniers-transcript-FINAL.docx"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Eileen-Moore-151x101.jpg",
-      "Eileen C. Moore",
-      "Eileen C. Moore"
+      "https://www.courts.ca.gov/documents/Deal_Betty_Barry_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/aclp-4-Nares_151x101.jpg",
-      "Gilbert Nares",
-      "Gilbert Nares"
+      "https://www.courts.ca.gov/documents/Betty_Barry-Deal_6024.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Manuel-Ramirez.jpg",
-      "Manuel A. Ramirez",
-      "Manuel A. Ramirez"
+      "https://www.courts.ca.gov/documents/Dondero_Bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Rylaarsdam_Legacy.jpg",
-      "William F. Rylaarsdam",
-      "William F. Rylaarsdam"
+      "https://www.courts.ca.gov/documents/Dondero_7320.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Scoville_Harmon.jpg",
-      "Harmon G. Scoville",
-      "Harmon G. Scoville"
+      "https://www.courts.ca.gov/documents/Dossee_Robert_L_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/aclp-Sills-151x101.jpg",
-      "David Sills",
-      "David Sills"
+      "https://www.courts.ca.gov/documents/Robert_Dossee_6051.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Sonenshine_Sheila.jpg",
-      "Sheila P. Sonenshine",
-      "Sheila P. Sonenshine"
+      "https://www.courts.ca.gov/documents/Haning_Zerne_P_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Timlin_Robert.jpg",
-      "Robert J. Timlin",
-      "Robert J. Timlin"
+      "https://www.courts.ca.gov/documents/Zerne_Haning_6053.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Todd_Jr_William.jpg",
-      "William L. Todd, Jr.",
-      "William L. Todd, Jr."
+      "https://www.courts.ca.gov/documents/Hanlon_Daniel_M_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Trotter.jpg",
-      "John K. Trotter, Jr.",
-      "John K. Trotter, Jr."
+      "https://www.courts.ca.gov/documents/Daniel_Hanlon_6054.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Wallin.jpg",
-      "Edward J. Wallin",
-      "Edward J. Wallin"
+      "https://www.courts.ca.gov/documents/Kane_Robert_F_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Ward_James_D.jpg",
-      "James D. Ward",
-      "James D. Ward"
+      "https://www.courts.ca.gov/documents/RobertF_Kane_6017.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Weiner.jpg",
-      "Howard B. Wiener",
-      "Howard B. Wiener"
+      "https://www.courts.ca.gov/documents/Kay_Laurence_D_Biography.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/Andreen.jpg",
-      "Justice Kenneth Andreen",
-      "Justice Kenneth Andreen"
+      "https://www.courts.ca.gov/documents/Laurence_Kay_6134.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Ardaiz-151x101.jpg",
-      "Justice James Ardaiz",
-      "Justice James Ardaiz"
+      "https://www.courts.ca.gov/documents/King_Donald_B_Biography.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Ballantyne.jpg",
-      "Justice Jay Ballantyne",
-      "Justice Jay Ballantyne"
+      "https://www.courts.ca.gov/documents/Donald_King_6047.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Buckley.jpg",
-      "Justice Timothy Buckley",
-      "Justice Timothy Buckley"
+      "https://www.courts.ca.gov/documents/1dca-anthony-j-kline.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/aclp-5-Cornell-151x101.jpg",
-      "Justice Dennis Cornell",
-      "Justice Dennis Cornell"
+      "https://www.courts.ca.gov/documents/Legacy_KLINE_Final_(002).pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/Dawson-151x101.jpg",
-      "Justice Betty Dawson",
-      "Justice Betty Dawson"
+      "https://www.courts.ca.gov/documents/Low_Harry_W_Biography.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/ACLP-Kane_Stephen_J-bio-photo.jpg",
-      "Justice Stephen Kane",
-      "Justice Stephen Kane"
+      "https://www.courts.ca.gov/documents/Harry_Low_6046.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Martin_Robert_L.jpg",
-      "Justice Robert Martin",
-      "Justice Robert Martin"
+      "https://www.courts.ca.gov/documents/ACLP-1-Marchiano-bio.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Thaxter.jpg",
-      "Justice James Thaxter",
-      "Justice James Thaxter"
+      "https://www.courts.ca.gov/documents/ACLP-1-Marchiano-Transcript.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Vartabedian.jpg",
-      "Justice Steven Vartabedian",
-      "Justice Steven Vartabedian"
+      "https://www.courts.ca.gov/documents/Newsom_Jr_William_A_Biography.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/Wiseman-151x101.jpg",
-      "Justice Rebecca Wiseman",
-      "Justice Rebecca Wiseman"
+      "https://www.courts.ca.gov/documents/Newsom_Jr_William_A_6048.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Zenovich.jpg",
-      "Justice George Zenovich",
-      "Justice George Zenovich"
+      "https://www.courts.ca.gov/documents/Parrilli_Joanne_C_Biography.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/images/Nat-Agliano151x101.jpg",
-      "Justice Nat Agliano",
-      "Justice Nat Agliano"
+      "https://www.courts.ca.gov/documents/Joanne_Parrilli_6233.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Brauer.jpg",
-      "Justice Harry Brauer",
-      "Justice Harry Brauer"
+      "https://www.courts.ca.gov/documents/Peterson_J_Clinton_Biography.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Cottle.jpg",
-      "Justice Christopher Cottle",
-      "Justice Christopher Cottle"
+      "https://www.courts.ca.gov/documents/JClinton_Peterson_6038.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Nathan-Mihara.jpg",
-      "Justice Nathan Mihara",
-      "Justice Nathan Mihara"
+      "https://www.courts.ca.gov/documents/Poche_Marcel_Biography.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Richard-McAdams-151x101.jpg",
-      "Justice Richard McAdams",
-      "Justice Richard McAdams"
+      "https://www.courts.ca.gov/documents/Marcel_Poche_6027.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/Wunderlich.jpg",
-      "Justice William Wunderlich",
-      "Justice William Wunderlich"
+      "https://www.courts.ca.gov/documents/Stuart-R-Pollak-1DCA-bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Anderson_Carl_W_Biography.pdf",
-      "Carl W. Anderson",
-      "Carl W. Anderson"
+      "https://www.courts.ca.gov/documents/Racanelli_John_T_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Carl_Anderson_6043.pdf",
-      "Carl Anderson 6043",
-      "Carl Anderson 6043"
+      "https://www.courts.ca.gov/documents/John_Racanelli_6020.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Terence-Bruiniers-BIO.pdf",
-      "Terence L. Bruiniers",
-      "Terence L. Bruiniers"
+      "https://www.courts.ca.gov/documents/ACLP-1-Rivera-bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Terence-Bruiniers-transcript-FINAL.docx",
-      "Terence Bruiniers transcript FINAL",
-      "Terence Bruiniers transcript FINAL"
+      "https://www.courts.ca.gov/documents/3_Interview_Transcrpt_Template_Maria_Rivera_2.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Deal_Betty_Barry_Biography.pdf",
-      "Betty B.\\xa0Deal",
-      "Betty B.\\xa0Deal"
+      "https://www.courts.ca.gov/documents/Ignaco-J-Ruvolo-Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Betty_Barry-Deal_6024.pdf",
-      "Betty Barry Deal 6024",
-      "Betty Barry Deal 6024"
+      "https://www.courts.ca.gov/documents/Ignazio_Ruvolo_7287.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Dondero_Bio.pdf",
-      "Robert L. Dondero",
-      "Robert L. Dondero"
+      "https://www.courts.ca.gov/documents/Sabraw_M_O_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Dondero_7320.pdf",
-      "Dondero 7320",
-      "Dondero 7320"
+      "https://www.courts.ca.gov/documents/MO_Sabraw_6026.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Dossee_Robert_L_Biography.pdf",
-      "Robert L. Dossee",
-      "Robert L. Dossee"
+      "https://www.courts.ca.gov/documents/Gabriel_P._Sanchez-1DCA_bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Robert_Dossee_6051.pdf",
-      "Robert Dossee 6051",
-      "Robert Dossee 6051"
+      "https://www.courts.ca.gov/documents/Sepulveda_Patricia_K_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Haning_Zerne_P_Biography.pdf",
-      "Zerne P. Haning III",
-      "Zerne P. Haning III"
+      "https://www.courts.ca.gov/documents/Patricia_Sepulveda_0515.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Zerne_Haning_6053.pdf",
-      "Zerne Haning 6053",
-      "Zerne Haning 6053"
+      "https://www.courts.ca.gov/documents/Strankman_Gary_E_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Hanlon_Daniel_M_Biography.pdf",
-      "Daniel M. Hanlon",
-      "Daniel M. Hanlon"
+      "https://www.courts.ca.gov/documents/Strankman_Gary_E_6021.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Daniel_Hanlon_6054.pdf",
-      "Daniel Hanlon 6054",
-      "Daniel Hanlon 6054"
+      "https://www.courts.ca.gov/documents/Swager_Douglas_E_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Kane_Robert_F_Biography.pdf",
-      "Robert F. Kane",
-      "Robert F. Kane"
+      "https://www.courts.ca.gov/documents/Douglas_Swager_6393.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/RobertF_Kane_6017.pdf",
-      "RobertF Kane 6017",
-      "RobertF Kane 6017"
+      "https://www.courts.ca.gov/documents/Walker_Herbert_W_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Kay_Laurence_D_Biography.pdf",
-      "Laurence D. Kay",
-      "Laurence D. Kay"
+      "https://www.courts.ca.gov/documents/Wes_Walker_6052.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Laurence_Kay_6134.pdf",
-      "Laurence Kay 6134",
-      "Laurence Kay 6134"
+      "https://www.courts.ca.gov/documents/Abbe_Richard_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/King_Donald_B_Biography.pdf",
-      "Donald B. King",
-      "Donald B. King"
+      "https://www.courts.ca.gov/documents/Richard_Abbe_Reminiscences_6065_.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Donald_King_6047.pdf",
-      "Donald King 6047",
-      "Donald King 6047"
+      "https://www.courts.ca.gov/documents/Alarcon_Arthur_L_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1dca-anthony-j-kline.pdf",
-      "J. Anthony Kline",
-      "J. Anthony Kline"
+      "https://www.courts.ca.gov/documents/Arthur_Alarcon_6035.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Legacy_KLINE_Final_(002).pdf",
-      "Legacy KLINE Final (002)",
-      "Legacy KLINE Final (002)"
+      "https://www.courts.ca.gov/documents/aclp-Aldrich-Bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Low_Harry_W_Biography.pdf",
-      "Harry W. Low",
-      "Harry W. Low"
+      "https://www.courts.ca.gov/documents/ACLP-2-Aldrich-Transcript.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Harry_Low_6046.pdf",
-      "Harry Low 6046",
-      "Harry Low 6046"
+      "https://www.courts.ca.gov/documents/ACLP-2-Armstrong-bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/ACLP-1-Marchiano-bio.pdf",
-      "James Marchiano",
-      "James Marchiano"
+      "https://www.courts.ca.gov/documents/Ashby_Herbert_L_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/ACLP-1-Marchiano-Transcript.pdf",
-      "ACLP 1 Marchiano Transcript",
-      "ACLP 1 Marchiano Transcript"
+      "https://www.courts.ca.gov/documents/Herbert_Ashby_6688.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Newsom_Jr_William_A_Biography.pdf",
-      "William A. Newsom, Jr.",
-      "William A. Newsom, Jr."
+      "https://www.courts.ca.gov/documents/Baron_Elizabeth_A_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Newsom_Jr_William_A_6048.pdf",
-      "Newsom Jr William A 6048",
-      "Newsom Jr William A 6048"
+      "https://www.courts.ca.gov/documents/Elizabeth_Baron_6540.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Parrilli_Joanne_C_Biography.pdf",
-      "Joanne C. Parrilli",
-      "Joanne C. Parrilli"
+      "https://www.courts.ca.gov/documents/Beach_Edwin_F_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Joanne_Parrilli_6233.pdf",
-      "Joanne Parrilli 6233",
-      "Joanne Parrilli 6233"
+      "https://www.courts.ca.gov/documents/Edwin_Beach_6063.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Peterson_J_Clinton_Biography.pdf",
-      "J. Clinton Peterson",
-      "J. Clinton Peterson"
+      "https://www.courts.ca.gov/documents/aclp-Boland-bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/JClinton_Peterson_6038.pdf",
-      "JClinton Peterson 6038",
-      "JClinton Peterson 6038"
+      "https://www.courts.ca.gov/documents/aclp-2-Roger-W-Boren-Bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Poche_Marcel_Biography.pdf",
-      "Marcel Poch",
-      "Marcel Poch"
+      "https://www.courts.ca.gov/documents/aclp-2-Roger-W-Boren-transcript.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Marcel_Poche_6027.pdf",
-      "Marcel Poche 6027",
-      "Marcel Poche 6027"
+      "https://www.courts.ca.gov/documents/Justice-Paul-Coffee-bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Stuart-R-Pollak-1DCA-bio.pdf",
-      "Stuart R. Pollak",
-      "Stuart R. Pollak"
+      "https://www.courts.ca.gov/documents/6855_Coffee.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Racanelli_John_T_Biography.pdf",
-      "John T. Racanelli",
-      "John T. Racanelli"
+      "https://www.courts.ca.gov/documents/Compton_Lynn_D_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/John_Racanelli_6020.pdf",
-      "John Racanelli 6020",
-      "John Racanelli 6020"
+      "https://www.courts.ca.gov/documents/Lynn_Compton_6042.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/ACLP-1-Rivera-bio.pdf",
-      "Maria P.\\xa0Rivera",
-      "Maria P.\\xa0Rivera"
+      "https://www.courts.ca.gov/documents/Cooper_Candace_D_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/3_Interview_Transcrpt_Template_Maria_Rivera_2.pdf",
-      "3 Interview Transcrpt Template Maria Rivera 2",
-      "3 Interview Transcrpt Template Maria Rivera 2"
+      "https://www.courts.ca.gov/documents/Candace_Cooper_6396.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Ignaco-J-Ruvolo-Biography.pdf",
-      "Ignacio J. \"Nace\" Ruvolo",
-      "Ignacio J. \"Nace\" Ruvolo"
+      "https://www.courts.ca.gov/documents/Curry_Daniel_A_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Ignazio_Ruvolo_7287.pdf",
-      "Ignazio Ruvolo 7287",
-      "Ignazio Ruvolo 7287"
+      "https://www.courts.ca.gov/documents/Daniel_Curry_6064.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Sabraw_M_O_Biography.pdf",
-      "M.O. Sabraw",
-      "M.O. Sabraw"
+      "https://www.courts.ca.gov/documents/2DCA_Former_Justice_Dhanidina.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/MO_Sabraw_6026.pdf",
-      "MO Sabraw 6026",
-      "MO Sabraw 6026"
+      "https://www.courts.ca.gov/documents/DHANIDINA_Legacy_mp3_FINAL.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Gabriel_P._Sanchez-1DCA_bio.pdf",
-      "Gabriel P. Sanchez",
-      "Gabriel P. Sanchez"
+      "https://www.courts.ca.gov/documents/Devich_Robert_R_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Sepulveda_Patricia_K_Biography.pdf",
-      "Patricia K. Sepulveda",
-      "Patricia K. Sepulveda"
+      "https://www.courts.ca.gov/documents/Robert_Devich_6056.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Patricia_Sepulveda_0515.pdf",
-      "Patricia Sepulveda 0515",
-      "Patricia Sepulveda 0515"
+      "https://www.courts.ca.gov/documents/ACLP-2-Norman-Epstein-bio.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Strankman_Gary_E_Biography.pdf",
-      "Gary E. Strankman",
-      "Gary E. Strankman"
+      "https://www.courts.ca.gov/documents/Norman_Epstein_7124.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Strankman_Gary_E_6021.pdf",
-      "Strankman Gary E 6021",
-      "Strankman Gary E 6021"
+      "https://www.courts.ca.gov/documents/Feinerman_Robert_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Swager_Douglas_E_Biography.pdf",
-      "Douglas E. Swager",
-      "Douglas E. Swager"
+      "https://www.courts.ca.gov/documents/Robert_Feinerman_6050.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Douglas_Swager_6393.pdf",
-      "Douglas Swager 6393",
-      "Douglas Swager 6393"
+      "https://www.courts.ca.gov/documents/Fleming_Macklin_Biography.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Walker_Herbert_W_Biography.pdf",
-      "Herbert W. Walker",
-      "Herbert W. Walker"
+      "https://www.courts.ca.gov/documents/Macklin_Fleming_6011.pdf"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Wes_Walker_6052.pdf",
-      "Wes Walker 6052",
-      "Wes Walker 6052"
+      "https://www.courts.ca.gov/documents/ACLP-2-Gilbert-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Abbe_Richard_Biography.pdf",
-      "Richard Abbe",
-      "Richard Abbe"
+      "https://www.courts.ca.gov/documents/ACLP-2-Gilbert-Transcript.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Richard_Abbe_Reminiscences_6065_.pdf",
-      "Richard Abbe Reminiscences 6065",
-      "Richard Abbe Reminiscences 6065"
+      "https://www.courts.ca.gov/documents/Goertzen_Jack_E_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Alarcon_Arthur_L_Biography.pdf",
-      "Arthur L. Alarcn",
-      "Arthur L. Alarcn"
+      "https://www.courts.ca.gov/documents/Jack_Goertzen_6136.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Arthur_Alarcon_6035.pdf",
-      "Arthur Alarcon 6035",
-      "Arthur Alarcon 6035"
+      "https://www.courts.ca.gov/documents/Grignon_Margaret_M_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/aclp-Aldrich-Bio.pdf",
-      "Richard Aldrich",
-      "Richard Aldrich"
+      "https://www.courts.ca.gov/documents/Grignon_Margaret_6140.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Aldrich-Transcript.pdf",
-      "ACLP 2 Aldrich Transcript",
-      "ACLP 2 Aldrich Transcript"
+      "https://www.courts.ca.gov/documents/Hastings_J_Gary_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Armstrong-bio.pdf",
-      "Orville Armstrong",
-      "Orville Armstrong"
+      "https://www.courts.ca.gov/documents/Gary_Hastings_6138.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Ashby_Herbert_L_Biography.pdf",
-      "Herbert L. Ashby",
-      "Herbert L. Ashby"
+      "https://www.courts.ca.gov/documents/Hastings_James_H_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Herbert_Ashby_6688.pdf",
-      "Herbert Ashby 6688",
-      "Herbert Ashby 6688"
+      "https://www.courts.ca.gov/documents/James_Hastings_6055.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Baron_Elizabeth_A_Biography.pdf",
-      "Elizabeth A. Baron",
-      "Elizabeth A. Baron"
+      "https://www.courts.ca.gov/documents/Hinz_Jr_Edward_A_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Elizabeth_Baron_6540.pdf",
-      "Elizabeth Baron 6540",
-      "Elizabeth Baron 6540"
+      "https://www.courts.ca.gov/documents/Hinz_Jr_Edward_A_6129.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Beach_Edwin_F_Biography.pdf",
-      "Edwin F. Beach",
-      "Edwin F. Beach"
+      "https://www.courts.ca.gov/documents/Hufstedler_Shirley_M_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Edwin_Beach_6063.pdf",
-      "Edwin Beach 6063",
-      "Edwin Beach 6063"
+      "https://www.courts.ca.gov/documents/Shirley_Hufstedler_6036.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/aclp-Boland-bio.pdf",
-      "Paul Boland",
-      "Paul Boland"
+      "https://www.courts.ca.gov/documents/ACLP-2-Jackson-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/aclp-2-Roger-W-Boren-Bio.pdf",
-      "Roger W. Boren",
-      "Roger W. Boren"
+      "https://www.courts.ca.gov/documents/ACLP-2-Jackson-Transcript.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/aclp-2-Roger-W-Boren-transcript.pdf",
-      "aclp 2 Roger W Boren transcript",
-      "aclp 2 Roger W Boren transcript"
+      "https://www.courts.ca.gov/documents/Johnson_Jr_Earl_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Justice-Paul-Coffee-bio.pdf",
-      "Paul Coffee",
-      "Paul Coffee"
+      "https://www.courts.ca.gov/documents/Johnson_Jr_Earl_6533.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/6855_Coffee.pdf",
-      "6855 Coffee",
-      "6855 Coffee"
+      "https://www.courts.ca.gov/documents/ACLP-2-Patti-Kitching-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Compton_Lynn_D_Biography.pdf",
-      "Lynn D. \"Buck\" Compton",
-      "Lynn D. \"Buck\" Compton"
+      "https://www.courts.ca.gov/documents/aclp-2-Patti-Kitching-transcript.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Lynn_Compton_6042.pdf",
-      "Lynn Compton 6042",
-      "Lynn Compton 6042"
+      "https://www.courts.ca.gov/documents/Klein_Joan_D_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Cooper_Candace_D_Biography.pdf",
-      "Candace D. Cooper",
-      "Candace D. Cooper"
+      "https://www.courts.ca.gov/documents/ACLP-2-Klein-Transcript.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Candace_Cooper_6396.pdf",
-      "Candace Cooper 6396",
-      "Candace Cooper 6396"
+      "https://www.courts.ca.gov/documents/KrieglerS.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Curry_Daniel_A_Biography.pdf",
-      "Daniel A. Curry",
-      "Daniel A. Curry"
+      "https://www.courts.ca.gov/documents/Lui_Elwood_G_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Daniel_Curry_6064.pdf",
-      "Daniel Curry 6064",
-      "Daniel Curry 6064"
+      "https://www.courts.ca.gov/documents/Elwood_Lui_6132.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA_Former_Justice_Dhanidina.pdf",
-      "Halim Dhanidina",
-      "Halim Dhanidina"
+      "https://www.courts.ca.gov/documents/Justice-Mallano-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/DHANIDINA_Legacy_mp3_FINAL.pdf",
-      "DHANIDINA Legacy mp3 FINAL",
-      "DHANIDINA Legacy mp3 FINAL"
+      "https://www.courts.ca.gov/documents/Masterson_William_A_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Devich_Robert_R_Biography.pdf",
-      "Robert R. Devich",
-      "Robert R. Devich"
+      "https://www.courts.ca.gov/documents/William_Masterson_6131.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Robert_Devich_6056.pdf",
-      "Robert Devich 6056",
-      "Robert Devich 6056"
+      "https://www.courts.ca.gov/documents/Richard-M-Mosk-Bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Norman-Epstein-bio.pdf",
-      "Norman L. Epstein",
-      "Norman L. Epstein"
+      "https://www.courts.ca.gov/documents/Richard-Mosk-Transcript.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Norman_Epstein_7124.pdf",
-      "Norman Epstein 7124",
-      "Norman Epstein 7124"
+      "https://www.courts.ca.gov/documents/Neal_Richard_C_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Feinerman_Robert_Biography.pdf",
-      "Robert Feinerman",
-      "Robert Feinerman"
+      "https://www.courts.ca.gov/documents/Richard_Neal_6139.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Robert_Feinerman_6050.pdf",
-      "Robert Feinerman 6050",
-      "Robert Feinerman 6050"
+      "https://www.courts.ca.gov/documents/Nott_Michael_G_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Fleming_Macklin_Biography.pdf",
-      "Macklin Fleming",
-      "Macklin Fleming"
+      "https://www.courts.ca.gov/documents/Michael_Nott_6137.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Macklin_Fleming_6011.pdf",
-      "Macklin Fleming 6011",
-      "Macklin Fleming 6011"
+      "https://www.courts.ca.gov/documents/Ortega_Reuben_A_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Gilbert-bio.pdf",
-      "Arthur Gilbert",
-      "Arthur Gilbert"
+      "https://www.courts.ca.gov/documents/Reuben_Ortega_6130.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Gilbert-Transcript.pdf",
-      "ACLP 2 Gilbert Transcript",
-      "ACLP 2 Gilbert Transcript"
+      "https://www.courts.ca.gov/documents/Stephen-Z-Perren-Bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Goertzen_Jack_E_Biography.pdf",
-      "Jack E. Goertzen",
-      "Jack E. Goertzen"
+      "https://www.courts.ca.gov/documents/Perren_7300.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Jack_Goertzen_6136.pdf",
-      "Jack Goertzen 6136",
-      "Jack Goertzen 6136"
+      "https://www.courts.ca.gov/documents/Stone_Steven_J_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Grignon_Margaret_M_Biography.pdf",
-      "Margaret M. Grignon",
-      "Margaret M. Grignon"
+      "https://www.courts.ca.gov/documents/Steven_Stone_6062.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Grignon_Margaret_6140.pdf",
-      "Grignon Margaret 6140",
-      "Grignon Margaret 6140"
+      "https://www.courts.ca.gov/documents/Thompson_Robert_S_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Hastings_J_Gary_Biography.pdf",
-      "J. Gary Hastings",
-      "J. Gary Hastings"
+      "https://www.courts.ca.gov/documents/Robert_Thompson_6044.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Gary_Hastings_6138.pdf",
-      "Gary Hastings 6138",
-      "Gary Hastings 6138"
+      "https://www.courts.ca.gov/documents/Vogel_Charles_S_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Hastings_James_H_Biography.pdf",
-      "James H. Hastings",
-      "James H. Hastings"
+      "https://www.courts.ca.gov/documents/Charles_Vogel_6260.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/James_Hastings_6055.pdf",
-      "James Hastings 6055",
-      "James Hastings 6055"
+      "https://www.courts.ca.gov/documents/Vogel_Miriam_A_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Hinz_Jr_Edward_A_Biography.pdf",
-      "Edward A. Hinz, Jr.",
-      "Edward A. Hinz, Jr."
+      "https://www.courts.ca.gov/documents/Miriam_Vogel_6392.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Hinz_Jr_Edward_A_6129.pdf",
-      "Hinz Jr Edward A 6129",
-      "Hinz Jr Edward A 6129"
+      "https://www.courts.ca.gov/documents/Woods_Arleigh__M_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Hufstedler_Shirley_M_Biography.pdf",
-      "Shirley M. Hufstedler",
-      "Shirley M. Hufstedler"
+      "https://www.courts.ca.gov/documents/Arleigh_Woods_6377.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Shirley_Hufstedler_6036.pdf",
-      "Shirley Hufstedler 6036",
-      "Shirley Hufstedler 6036"
+      "https://www.courts.ca.gov/documents/Zebrowski_John_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Jackson-bio.pdf",
-      "Frank Jackson",
-      "Frank Jackson"
+      "https://www.courts.ca.gov/documents/John_Zebrowski_6583.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Jackson-Transcript.pdf",
-      "ACLP 2 Jackson Transcript",
-      "ACLP 2 Jackson Transcript"
+      "https://www.courts.ca.gov/documents/Laurie-D-Zelon-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Johnson_Jr_Earl_Biography.pdf",
-      "Earl Johnson, Jr.",
-      "Earl Johnson, Jr."
+      "https://www.courts.ca.gov/documents/377-Laurie-D-Zelon-transcript-cp.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Johnson_Jr_Earl_6533.pdf",
-      "Johnson Jr Earl 6533",
-      "Johnson Jr Earl 6533"
+      "https://www.courts.ca.gov/documents/Blease_Coleman_A_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Patti-Kitching-bio.pdf",
-      "Patti S. Kitching",
-      "Patti S. Kitching"
+      "https://www.courts.ca.gov/documents/Coleman_Blease_6015.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/aclp-2-Patti-Kitching-transcript.pdf",
-      "aclp 2 Patti Kitching transcript",
-      "aclp 2 Patti Kitching transcript"
+      "https://www.courts.ca.gov/documents/Callahan_Consuelo_(Connie)_Maria_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Klein_Joan_D_Biography.pdf",
-      "Joan D. Klein",
-      "Joan D. Klein"
+      "https://www.courts.ca.gov/documents/Consuelo_Callahan_6028.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/ACLP-2-Klein-Transcript.pdf",
-      "ACLP 2 Klein Transcript",
-      "ACLP 2 Klein Transcript"
+      "https://www.courts.ca.gov/documents/Justice-Rodney-Davis-Bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/KrieglerS.pdf",
-      "Sandy R. Kriegler",
-      "Sandy R. Kriegler"
+      "https://www.courts.ca.gov/documents/Rodney_Davis_6399.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Lui_Elwood_G_Biography.pdf",
-      "Elwood G. Lui",
-      "Elwood G. Lui"
+      "https://www.courts.ca.gov/documents/Evans_Hugh_A_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Elwood_Lui_6132.pdf",
-      "Elwood Lui 6132",
-      "Elwood Lui 6132"
+      "https://www.courts.ca.gov/documents/Evans_Hugh_Arthur_6014.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Justice-Mallano-bio.pdf",
-      "Robert M. Mallano",
-      "Robert M. Mallano"
+      "https://www.courts.ca.gov/documents/Morrison_Fred_K_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Masterson_William_A_Biography.pdf",
-      "William A. Masterson",
-      "William A. Masterson"
+      "https://www.courts.ca.gov/documents/Fred_Morrison_6371.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/William_Masterson_6131.pdf",
-      "William Masterson 6131",
-      "William Masterson 6131"
+      "https://www.courts.ca.gov/documents/aclp-george-nicholson-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Richard-M-Mosk-Bio.pdf",
-      "Richard Mosk Bio",
-      "Richard Mosk Bio"
+      "https://www.courts.ca.gov/documents/aclp-george-nicholson-transcript.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Richard-Mosk-Transcript.pdf",
-      "Richard Mosk Transcript",
-      "Richard Mosk Transcript"
+      "https://www.courts.ca.gov/documents/Puglia_Robert_K_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Neal_Richard_C_Biography.pdf",
-      "Richard C. Neal",
-      "Richard C. Neal"
+      "https://www.courts.ca.gov/documents/Robert_Puglia_5543-2.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Richard_Neal_6139.pdf",
-      "Richard Neal 6139",
-      "Richard Neal 6139"
+      "https://www.courts.ca.gov/documents/Justice-Arthur-G-Scotland-bio.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Nott_Michael_G_Biography.pdf",
-      "Michael G. Nott",
-      "Michael G. Nott"
+      "https://www.courts.ca.gov/documents/6723_Scotland.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Michael_Nott_6137.pdf",
-      "Michael Nott 6137",
-      "Michael Nott 6137"
+      "https://www.courts.ca.gov/documents/Sims_III_Richard_M_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Ortega_Reuben_A_Biography.pdf",
-      "Reuben A. Ortega",
-      "Reuben A. Ortega"
+      "https://www.courts.ca.gov/documents/Richard_Sims_6546.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Reuben_Ortega_6130.pdf",
-      "Reuben Ortega 6130",
-      "Reuben Ortega 6130"
+      "https://www.courts.ca.gov/documents/Sparks_Keith_F_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Stephen-Z-Perren-Bio.pdf",
-      "Steven Z. Perren",
-      "Steven Z. Perren"
+      "https://www.courts.ca.gov/documents/Keith_Sparks_6029.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Perren_7300.pdf",
-      "Perren 7300",
-      "Perren 7300"
+      "https://www.courts.ca.gov/documents/Brown_Gerald_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Stone_Steven_J_Biography.pdf",
-      "Steven J. Stone",
-      "Steven J. Stone"
+      "https://www.courts.ca.gov/documents/215_Richard-Aronson_2-FINAL-for-WC.docx"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Steven_Stone_6062.pdf",
-      "Steven Stone 6062",
-      "Steven Stone 6062"
+      "https://www.courts.ca.gov/documents/216_Penfold_Legacy_BENKE_transcript-FINAL_for_WC.docx"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Thompson_Robert_S_Biography.pdf",
-      "Robert S. Thompson",
-      "Robert S. Thompson"
+      "https://www.courts.ca.gov/documents/Gerald_Brown_5543-1.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Robert_Thompson_6044.pdf",
-      "Robert Thompson 6044",
-      "Robert Thompson 6044"
+      "https://www.courts.ca.gov/documents/Cologne_Gordon_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Vogel_Charles_S_Biography.pdf",
-      "Charles S. Vogel",
-      "Charles S. Vogel"
+      "https://www.courts.ca.gov/documents/Gordon_Cologne_6012.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Charles_Vogel_6260.pdf",
-      "Charles Vogel 6260",
-      "Charles Vogel 6260"
+      "https://www.courts.ca.gov/documents/Froehlich_Charles_W_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Vogel_Miriam_A_Biography.pdf",
-      "Miriam A. Vogel",
-      "Miriam A. Vogel"
+      "https://www.courts.ca.gov/documents/Charles_Froehlich_6057.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Miriam_Vogel_6392.pdf",
-      "Miriam Vogel 6392",
-      "Miriam Vogel 6392"
+      "https://www.courts.ca.gov/documents/Richard-Fybel-Associate-Justice-4DCA-BIO.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Woods_Arleigh__M_Biography.pdf",
-      "Arleigh M. Woods",
-      "Arleigh M. Woods"
+      "https://www.courts.ca.gov/documents/87-Penfold-Richard-Fybel-transcript-FINAL.docx"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Arleigh_Woods_6377.pdf",
-      "Arleigh Woods 6377",
-      "Arleigh Woods 6377"
+      "https://www.courts.ca.gov/documents/Gabbert_John_G_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Zebrowski_John_Biography.pdf",
-      "John Zebrowski",
-      "John Zebrowski"
+      "https://www.courts.ca.gov/documents/JohnG_Gabbert_6013.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/John_Zebrowski_6583.pdf",
-      "John Zebrowski 6583",
-      "John Zebrowski 6583"
+      "https://www.courts.ca.gov/documents/Gaut_Barton_C_Biography.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/Laurie-D-Zelon-bio.pdf",
-      "Laurie Zelon",
-      "Laurie Zelon"
+      "https://www.courts.ca.gov/documents/Barton_Gaut_6572.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/377-Laurie-D-Zelon-transcript-cp.pdf",
-      "377 Laurie D Zelon transcript cp",
-      "377 Laurie D Zelon transcript cp"
+      "https://www.courts.ca.gov/documents/Judith-L-Haller-Associate-Justice-4DCA-BIO.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Blease_Coleman_A_Biography.pdf",
-      "Coleman A. Blease",
-      "Coleman A. Blease"
+      "https://www.courts.ca.gov/documents/Judith-Haller-Final.docx"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Coleman_Blease_6015.pdf",
-      "Coleman Blease 6015",
-      "Coleman Blease 6015"
+      "https://www.courts.ca.gov/documents/Hollenhorst_Thomas_E_Biography.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Callahan_Consuelo_(Connie)_Maria_Biography.pdf",
-      "Consuelo M. Callahan",
-      "Consuelo M. Callahan"
+      "https://www.courts.ca.gov/documents/Hollenhorst_Thomas_7143.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Consuelo_Callahan_6028.pdf",
-      "Consuelo Callahan 6028",
-      "Consuelo Callahan 6028"
+      "https://www.courts.ca.gov/documents/ACLP-4dca-Richard-Huffman-Transcript.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Justice-Rodney-Davis-Bio.pdf",
-      "Rodney Davis",
-      "Rodney Davis"
+      "https://www.courts.ca.gov/documents/Ikola_Raymond_Biography.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Rodney_Davis_6399.pdf",
-      "Rodney Davis 6399",
-      "Rodney Davis 6399"
+      "https://www.courts.ca.gov/documents/Ikola_7301.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Evans_Hugh_A_Biography.pdf",
-      "Hugh A. Evans",
-      "Hugh A. Evans"
+      "https://www.courts.ca.gov/documents/Kremer_Daniel_J_Biography.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Evans_Hugh_Arthur_6014.pdf",
-      "Evans Hugh Arthur 6014",
-      "Evans Hugh Arthur 6014"
+      "https://www.courts.ca.gov/documents/Daniel_Kremer_6045.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Morrison_Fred_K_Biography.pdf",
-      "Fred K. Morrison",
-      "Fred K. Morrison"
+      "https://www.courts.ca.gov/documents/Lewis_Gerald_J_Biography.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Fred_Morrison_6371.pdf",
-      "Fred Morrison 6371",
-      "Fred Morrison 6371"
+      "https://www.courts.ca.gov/documents/Lewis_Gerald_6041.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/aclp-george-nicholson-bio.pdf",
-      "George W. Nicholson",
-      "George W. Nicholson"
+      "https://www.courts.ca.gov/documents/aclp-4-McConnell-bio.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/aclp-george-nicholson-transcript.pdf",
-      "aclp george nicholson transcript",
-      "aclp george nicholson transcript"
+      "https://www.courts.ca.gov/documents/aclp-4-Judith-McConnell-transcript.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Puglia_Robert_K_Biography.pdf",
-      "Robert K. Puglia",
-      "Robert K. Puglia"
+      "https://www.courts.ca.gov/documents/McDaniel_F_D_Biography.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Robert_Puglia_5543-2.pdf",
-      "Robert Puglia 5543 2",
-      "Robert Puglia 5543 2"
+      "https://www.courts.ca.gov/documents/FDouglas_McDaniel_6010.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Justice-Arthur-G-Scotland-bio.pdf",
-      "Arthur G. Scotland",
-      "Arthur G. Scotland"
+      "https://www.courts.ca.gov/documents/aclp-4-Alex-C-McDonald-bio.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/6723_Scotland.pdf",
-      "6723 Scotland",
-      "6723 Scotland"
+      "https://www.courts.ca.gov/documents/aclp-4-Alex-C-McDonald-Special-Session-Memorial-Service-Transcript.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Sims_III_Richard_M_Biography.pdf",
-      "Richard M. Sims, III",
-      "Richard M. Sims, III"
+      "https://www.courts.ca.gov/documents/aclp-4-James-McIntyre-bio.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Richard_Sims_6546.pdf",
-      "Richard Sims 6546",
-      "Richard Sims 6546"
+      "https://www.courts.ca.gov/documents/aclp-4-James-McIntyre-transcript.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Sparks_Keith_F_Biography.pdf",
-      "Keith F. Sparks",
-      "Keith F. Sparks"
+      "https://www.courts.ca.gov/documents/Art-W-McKinster-Associate-Justice-4DCA-BIO.pdf"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/Keith_Sparks_6029.pdf",
-      "Keith Sparks 6029",
-      "Keith Sparks 6029"
+      "https://www.courts.ca.gov/documents/Eileen-C-Moore-Associate-Justice-4DCA-BIO.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Brown_Gerald_Biography.pdf",
-      "Gerald Brown",
-      "Gerald Brown"
+      "https://www.courts.ca.gov/documents/aclp-4-Nares-bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/215_Richard-Aronson_2-FINAL-for-WC.docx",
-      "215 Richard Aronson 2 FINAL for WC",
-      "215 Richard Aronson 2 FINAL for WC"
+      "https://www.courts.ca.gov/documents/Gilbert_Nares_Transcript_392.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/216_Penfold_Legacy_BENKE_transcript-FINAL_for_WC.docx",
-      "216 Penfold Legacy BENKE transcript FINAL for WC",
-      "216 Penfold Legacy BENKE transcript FINAL for WC"
+      "https://www.courts.ca.gov/documents/Manuel-A-Ramirez-bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Gerald_Brown_5543-1.pdf",
-      "Gerald Brown 5543 1",
-      "Gerald Brown 5543 1"
+      "https://www.courts.ca.gov/documents/Rylaarsdam-Bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Cologne_Gordon_Biography.pdf",
-      "Gordon Cologne",
-      "Gordon Cologne"
+      "https://www.courts.ca.gov/documents/Rylaarsdam_transcript.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Gordon_Cologne_6012.pdf",
-      "Gordon Cologne 6012",
-      "Gordon Cologne 6012"
+      "https://www.courts.ca.gov/documents/Scoville_Harmon_G_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Froehlich_Charles_W_Biography.pdf",
-      "Charles W. Froehlich",
-      "Charles W. Froehlich"
+      "https://www.courts.ca.gov/documents/Harmon_Scoville_6141.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Charles_Froehlich_6057.pdf",
-      "Charles Froehlich 6057",
-      "Charles Froehlich 6057"
+      "https://www.courts.ca.gov/documents/aclp-Sills-bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Richard-Fybel-Associate-Justice-4DCA-BIO.pdf",
-      "Richard D. Fybel",
-      "Richard D. Fybel"
+      "https://www.courts.ca.gov/documents/david-sills-transcript.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/87-Penfold-Richard-Fybel-transcript-FINAL.docx",
-      "87 Penfold Richard Fybel transcript FINAL",
-      "87 Penfold Richard Fybel transcript FINAL"
+      "https://www.courts.ca.gov/documents/Sonenshine_Sheila_P_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Gabbert_John_G_Biography.pdf",
-      "John G. Gabbert",
-      "John G. Gabbert"
+      "https://www.courts.ca.gov/documents/Sheila_Prell-Sonenshine_6033.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/JohnG_Gabbert_6013.pdf",
-      "JohnG Gabbert 6013",
-      "JohnG Gabbert 6013"
+      "https://www.courts.ca.gov/documents/Timlin_Robert_J_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Gaut_Barton_C_Biography.pdf",
-      "Barton C. Gaut",
-      "Barton C. Gaut"
+      "https://www.courts.ca.gov/documents/Robert_Timlin_6030.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Barton_Gaut_6572.pdf",
-      "Barton Gaut 6572",
-      "Barton Gaut 6572"
+      "https://www.courts.ca.gov/documents/Todd_Jr_William_L_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Judith-L-Haller-Associate-Justice-4DCA-BIO.pdf",
-      "Judith L. Haller",
-      "Judith L. Haller"
+      "https://www.courts.ca.gov/documents/William_Todd_6059.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Judith-Haller-Final.docx",
-      "Judith Haller Final",
-      "Judith Haller Final"
+      "https://www.courts.ca.gov/documents/Trotter_Jr_John_K_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Hollenhorst_Thomas_E_Biography.pdf",
-      "Thomas Hollenhorst",
-      "Thomas Hollenhorst"
+      "https://www.courts.ca.gov/documents/John_Trotter_6032.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Hollenhorst_Thomas_7143.pdf",
-      "Hollenhorst Thomas 7143",
-      "Hollenhorst Thomas 7143"
+      "https://www.courts.ca.gov/documents/Wallin_Edward_J_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/ACLP-4dca-Richard-Huffman-bio.pdf",
-      "Richard D. Huffman",
-      "Richard D. Huffman"
+      "https://www.courts.ca.gov/documents/Edward_Wallin_6034.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/ACLP-4dca-Richard-Huffman-Transcript.pdf",
-      "ACLP 4dca Richard Huffman Transcript",
-      "ACLP 4dca Richard Huffman Transcript"
+      "https://www.courts.ca.gov/documents/Ward_James_D_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Ikola_Raymond_Biography.pdf",
-      "Raymond Ikola",
-      "Raymond Ikola"
+      "https://www.courts.ca.gov/documents/James_Ward_6061.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Ikola_7301.pdf",
-      "Ikola 7301",
-      "Ikola 7301"
+      "https://www.courts.ca.gov/documents/Wiener_Howard_B_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Kremer_Daniel_J_Biography.pdf",
-      "Daniel J. Kremer",
-      "Daniel J. Kremer"
+      "https://www.courts.ca.gov/documents/Howard_Wiener_6040.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Daniel_Kremer_6045.pdf",
-      "Daniel Kremer 6045",
-      "Daniel Kremer 6045"
+      "https://www.courts.ca.gov/documents/Andreen_Kenneth_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Lewis_Gerald_J_Biography.pdf",
-      "Gerald J. Lewis",
-      "Gerald J. Lewis"
+      "https://www.courts.ca.gov/documents/Kenneth_Andreen_6019.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Lewis_Gerald_6041.pdf",
-      "Lewis Gerald 6041",
-      "Lewis Gerald 6041"
+      "https://www.courts.ca.gov/documents/James-A-Ardaiz-Bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-McConnell-bio.pdf",
-      "Judith D. McConnell",
-      "Judith D. McConnell"
+      "https://www.courts.ca.gov/documents/James-A-Ardaiz-6810.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-Judith-McConnell-transcript.pdf",
-      "aclp 4 Judith McConnell transcript",
-      "aclp 4 Judith McConnell transcript"
+      "https://www.courts.ca.gov/documents/Ballantyne_Jay_R_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/McDaniel_F_D_Biography.pdf",
-      "Franklin D. McDaniel",
-      "Franklin D. McDaniel"
+      "https://www.courts.ca.gov/documents/Jay_Ballantyne_6133.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/FDouglas_McDaniel_6010.pdf",
-      "FDouglas McDaniel 6010",
-      "FDouglas McDaniel 6010"
+      "https://www.courts.ca.gov/documents/Buckley_Timothy_S_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-Alex-C-McDonald-bio.pdf",
-      "Alex C. McDonald",
-      "Alex C. McDonald"
+      "https://www.courts.ca.gov/documents/Timothy_Buckley_6023.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-Alex-C-McDonald-Special-Session-Memorial-Service-Transcript.pdf",
-      "aclp 4 Alex C McDonald Special Session Memorial Service Transcript",
-      "aclp 4 Alex C McDonald Special Session Memorial Service Transcript"
+      "https://www.courts.ca.gov/documents/aclp-5-Cornell_Dennis_A_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-James-McIntyre-bio.pdf",
-      "James A. McIntyre",
-      "James A. McIntyre"
+      "https://www.courts.ca.gov/documents/Dennis_Cornell_7097.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-James-McIntyre-transcript.pdf",
-      "aclp 4 James McIntyre transcript",
-      "aclp 4 James McIntyre transcript"
+      "https://www.courts.ca.gov/documents/Betty_Dawson_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Art-W-McKinster-Associate-Justice-4DCA-BIO.pdf",
-      "Art W. McKinster",
-      "Art W. McKinster"
+      "https://www.courts.ca.gov/documents/6864_Dawson.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Eileen-C-Moore-Associate-Justice-4DCA-BIO.pdf",
-      "Eileen C. Moore",
-      "Eileen C. Moore"
+      "https://www.courts.ca.gov/documents/ACLP-Kane_Stephen_J-Bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-4-Nares-bio.pdf",
-      "Gilbert Nares",
-      "Gilbert Nares"
+      "https://www.courts.ca.gov/documents/ACLP-Kane_Stephen_J-transcript.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Gilbert_Nares_Transcript_392.pdf",
-      "Gilbert Nares Transcript 392",
-      "Gilbert Nares Transcript 392"
+      "https://www.courts.ca.gov/documents/Martin_Robert_L_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Manuel-A-Ramirez-bio.pdf",
-      "Manuel A. Ramirez",
-      "Manuel A. Ramirez"
+      "https://www.courts.ca.gov/documents/RobertL_Martin_6018.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Rylaarsdam-Bio.pdf",
-      "William F. Rylaarsdam",
-      "William F. Rylaarsdam"
+      "https://www.courts.ca.gov/documents/Thaxter_James_F_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Rylaarsdam_transcript.pdf",
-      "Rylaarsdam transcript",
-      "Rylaarsdam transcript"
+      "https://www.courts.ca.gov/documents/JamesF_Thaxter_6022.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Scoville_Harmon_G_Biography.pdf",
-      "Harmon G. Scoville",
-      "Harmon G. Scoville"
+      "https://www.courts.ca.gov/documents/Vartabedian_Steven_M_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Harmon_Scoville_6141.pdf",
-      "Harmon Scoville 6141",
-      "Harmon Scoville 6141"
+      "https://www.courts.ca.gov/documents/Steven_Vartabedian_6575.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/aclp-Sills-bio.pdf",
-      "David Sills",
-      "David Sills"
+      "https://www.courts.ca.gov/documents/ACLP-5-Wiseman-bio.docx"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/david-sills-transcript.pdf",
-      "david sills transcript",
-      "david sills transcript"
+      "https://www.courts.ca.gov/documents/ACLP-5-Wiseman-Transcript.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Sonenshine_Sheila_P_Biography.pdf",
-      "Sheila P. Sonenshine",
-      "Sheila P. Sonenshine"
+      "https://www.courts.ca.gov/documents/Zenovich_George_N_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Sheila_Prell-Sonenshine_6033.pdf",
-      "Sheila Prell Sonenshine 6033",
-      "Sheila Prell Sonenshine 6033"
+      "https://www.courts.ca.gov/documents/GeorgeN_Zenovich_6016.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Timlin_Robert_J_Biography.pdf",
-      "Robert J. Timlin",
-      "Robert J. Timlin"
+      "https://www.courts.ca.gov/documents/Justice-Nat-Agliano-bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Robert_Timlin_6030.pdf",
-      "Robert Timlin 6030",
-      "Robert Timlin 6030"
+      "https://www.courts.ca.gov/documents/Agliano_6781.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Todd_Jr_William_L_Biography.pdf",
-      "William L. Todd, Jr.",
-      "William L. Todd, Jr."
+      "https://www.courts.ca.gov/documents/Brauer_Harry_F_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/William_Todd_6059.pdf",
-      "William Todd 6059",
-      "William Todd 6059"
+      "https://www.courts.ca.gov/documents/Harry_Brauer_6060.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Trotter_Jr_John_K_Biography.pdf",
-      "John K. Trotter, Jr.",
-      "John K. Trotter, Jr."
+      "https://www.courts.ca.gov/documents/Cottle_Christopher_C_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/John_Trotter_6032.pdf",
-      "John Trotter 6032",
-      "John Trotter 6032"
+      "https://www.courts.ca.gov/documents/Christopher_Cottle_6135.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Wallin_Edward_J_Biography.pdf",
-      "Edward J. Wallin",
-      "Edward J. Wallin"
+      "https://www.courts.ca.gov/documents/Nathan-D-Mihara-bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Edward_Wallin_6034.pdf",
-      "Edward Wallin 6034",
-      "Edward Wallin 6034"
+      "https://www.courts.ca.gov/documents/Nathan_Mihara_FINAL.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Ward_James_D_Biography.pdf",
-      "James D. Ward",
-      "James D. Ward"
+      "https://www.courts.ca.gov/documents/Justice-Richard-J-McAdams-bio.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/James_Ward_6061.pdf",
-      "James Ward 6061",
-      "James Ward 6061"
+      "https://www.courts.ca.gov/documents/McAdams_6780.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Wiener_Howard_B_Biography.pdf",
-      "Howard B. Wiener",
-      "Howard B. Wiener"
+      "https://www.courts.ca.gov/documents/Wunderlich_William_M_Biography.pdf"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/Howard_Wiener_6040.pdf",
-      "Howard Wiener 6040",
-      "Howard Wiener 6040"
+      "https://www.courts.ca.gov/documents/William_Wunderlich_6181.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Andreen_Kenneth_Biography.pdf",
-      "Kenneth Andreen",
-      "Kenneth Andreen"
+      "http://www.courts.ca.gov/documents/coa100booklet.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Kenneth_Andreen_6019.pdf",
-      "Kenneth Andreen 6019",
-      "Kenneth Andreen 6019"
+      "https://www.courts.ca.gov/documents/coa100panels.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/James-A-Ardaiz-Bio.pdf",
-      "James A. Ardaiz",
-      "James A. Ardaiz"
+      "https://www.courts.ca.gov/documents/PragerSpeech.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/James-A-Ardaiz-6810.pdf",
-      "James A Ardaiz 6810",
-      "James A Ardaiz 6810"
+      "https://www.courts.ca.gov/documents/ShermanSpeech.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Ballantyne_Jay_R_Biography.pdf",
-      "Jay R. Ballantyne",
-      "Jay R. Ballantyne"
+      "https://www.courts.ca.gov/documents/Steiner.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Jay_Ballantyne_6133.pdf",
-      "Jay Ballantyne 6133",
-      "Jay Ballantyne 6133"
+      "https://www.courts.ca.gov/documents/AGRecordCourtsofAppeal.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Buckley_Timothy_S_Biography.pdf",
-      "Timothy S. Buckley",
-      "Timothy S. Buckley"
+      "https://www.courts.ca.gov/documents/2DCA-externprogram.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Timothy_Buckley_6023.pdf",
-      "Timothy Buckley 6023",
-      "Timothy Buckley 6023"
+      "https://www.courts.ca.gov/documents/2023-Oral-Argument-Calendar-Dates.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/aclp-5-Cornell_Dennis_A_Biography.pdf",
-      "Dennis Cornell",
-      "Dennis Cornell"
+      "https://www.courts.ca.gov/documents/2DCA-In-Person-OA-Guidelines.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Dennis_Cornell_7097.pdf",
-      "Dennis Cornell 7097",
-      "Dennis Cornell 7097"
+      "https://www.courts.ca.gov/documents/mc500.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Betty_Dawson_Biography.pdf",
-      "Betty Dawson",
-      "Betty Dawson"
+      "https://www.courts.ca.gov/documents/mc510.pd.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/6864_Dawson.pdf",
-      "6864 Dawson",
-      "6864 Dawson"
+      "https://www.courts.ca.gov/documents/notice_to_litigants.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/ACLP-Kane_Stephen_J-Bio.pdf",
-      "Stephen J. Kane",
-      "Stephen J. Kane"
+      "https://www.courts.ca.gov/documents/2DCA-01.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/ACLP-Kane_Stephen_J-transcript.pdf",
-      "ACLP Kane Stephen J transcript",
-      "ACLP Kane Stephen J transcript"
+      "https://www.courts.ca.gov/documents/2DCA-Copy_Service.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Martin_Robert_L_Biography.pdf",
-      "Robert L. Martin",
-      "Robert L. Martin"
+      "https://www.courts.ca.gov/documents/IOP_District2.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/RobertL_Martin_6018.pdf",
-      "RobertL Martin 6018",
-      "RobertL Martin 6018"
+      "https://www.courts.ca.gov/documents/AppCrtsSec-primer_2013rev.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Thaxter_James_F_Biography.pdf",
-      "James F. Thaxter",
-      "James F. Thaxter"
+      "https://www.courts.ca.gov/documents/2dca-Free-Self-Help-Clinic-for-Indigent-Civil-Litigants.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/JamesF_Thaxter_6022.pdf",
-      "JamesF Thaxter 6022",
-      "JamesF Thaxter 6022"
+      "https://www.courts.ca.gov/documents/2DCA_Elec_Format_Req_2022.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Vartabedian_Steven_M_Biography.pdf",
-      "Steven M. Vartabedian",
-      "Steven M. Vartabedian"
+      "https://www.courts.ca.gov/documents/appdistc.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Steven_Vartabedian_6575.pdf",
-      "Steven Vartabedian 6575",
-      "Steven Vartabedian 6575"
+      "https://www.courts.ca.gov/documents/exhibitpanels.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/ACLP-5-Wiseman-bio.docx",
-      "Rebecca Wiseman",
-      "Rebecca Wiseman"
+      "https://www.courts.ca.gov/documents/3DCA-self-help-manual.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/ACLP-5-Wiseman-Transcript.pdf",
-      "ACLP 5 Wiseman Transcript",
-      "ACLP 5 Wiseman Transcript"
+      "https://www.courts.ca.gov/documents/3DCA-Launch-of-E-Filing-20130318.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Zenovich_George_N_Biography.pdf",
-      "George N. Zenovich",
-      "George N. Zenovich"
+      "https://www.courts.ca.gov/documents/3DCA-Notice-of-Change-of-Hours-20130103.pdf"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/GeorgeN_Zenovich_6016.pdf",
-      "GeorgeN Zenovich 6016",
-      "GeorgeN Zenovich 6016"
+      "https://www.courts.ca.gov/documents/Letter_to_Bar_President.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Justice-Nat-Agliano-bio.pdf",
-      "Nat Agliano",
-      "Nat Agliano"
+      "https://www.courts.ca.gov/documents/3DCA-2023OralArgumentDates.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Agliano_6781.pdf",
-      "Agliano 6781",
-      "Agliano 6781"
+      "https://www.courts.ca.gov/documents/3DCA_ElectronicDevices.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Brauer_Harry_F_Biography.pdf",
-      "Harry F. Brauer",
-      "Harry F. Brauer"
+      "https://www.courts.ca.gov/documents/3dca-Local-Rule-5.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Harry_Brauer_6060.pdf",
-      "Harry Brauer 6060",
-      "Harry Brauer 6060"
+      "https://www.courts.ca.gov/documents/3AC-IOPPrevisioneff03242023.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Cottle_Christopher_C_Biography.pdf",
-      "Christopher C. Cottle",
-      "Christopher C. Cottle"
+      "https://www.courts.ca.gov/documents/ext-trial.doc"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Christopher_Cottle_6135.pdf",
-      "Christopher Cottle 6135",
-      "Christopher Cottle 6135"
+      "https://www.courts.ca.gov/documents/GH-BIO.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Nathan-D-Mihara-bio.pdf",
-      "Nathan Mihara",
-      "Nathan Mihara"
+      "https://www.courts.ca.gov/documents/1dca-oral-argument-calendar.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Nathan_Mihara_FINAL.pdf",
-      "Nathan Mihara FINAL",
-      "Nathan Mihara FINAL"
+      "https://www.courts.ca.gov/documents/Local_Rule_12.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Justice-Richard-J-McAdams-bio.pdf",
-      "Richard J. McAdams",
-      "Richard J. McAdams"
+      "https://www.courts.ca.gov/documents/1dca-Local-Rule-12-bookmarks-and-pagination.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/McAdams_6780.pdf",
-      "McAdams 6780",
-      "McAdams 6780"
+      "https://www.courts.ca.gov/documents/EO-Judicial-Council.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/Wunderlich_William_M_Biography.pdf",
-      "William M. Wunderlich",
-      "William M. Wunderlich"
+      "https://www.courts.ca.gov/documents/EO-1DCA.pdf"
     ],
     [
-      "6",
-      "https://www.courts.ca.gov/documents/William_Wunderlich_6181.pdf",
-      "William Wunderlich 6181",
-      "William Wunderlich 6181"
+      "https://www.courts.ca.gov/documents/Implementation-Order-for-EO-20200409.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/100celebration.jpg",
-      "Seven appellate justices posing together in photo",
-      "Seven appellate justices posing together in photo"
+      "https://www.courts.ca.gov/documents/Implementation-Order-for-EO-20200415.pdf"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/coa100booklet.pdf",
-      "\"Striving for Justice: Yesterday, Today, and Tomorrow\" Centennial Booklet",
-      "\"Striving for Justice: Yesterday, Today, and Tomorrow\" Centennial Booklet"
+      "https://www.courts.ca.gov/documents/94-1.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/coa100panels.pdf",
-      "\"Striving for Justice: Yesterday, Today, and Tomorrow\" Historical Snapshot",
-      "\"Striving for Justice: Yesterday, Today, and Tomorrow\" Historical Snapshot"
+      "https://www.courts.ca.gov/documents/97-1.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/PragerSpeech.pdf",
-      "Susan Prager, Professor, UCLA School of Law",
-      "Susan Prager, Professor, UCLA School of Law"
+      "https://www.courts.ca.gov/documents/1DCA-Miscellaneous-Order-2017-01.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/ShermanSpeech.pdf",
-      "Richard Sherman, President, California Academy of Appellate Lawyers",
-      "Richard Sherman, President, California Academy of Appellate Lawyers"
+      "https://www.courts.ca.gov/documents/1DCA-Local-Rule-12.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Steiner.pdf",
-      "Jonathan Steiner, Executive Director, California Appellate Project - Los Angeles",
-      "Jonathan Steiner, Executive Director, California Appellate Project - Los Angeles"
+      "https://www.courts.ca.gov/documents/sample-form-letter.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/AGRecordCourtsofAppeal.pdf",
-      "Bill Lockyer, former Attorney General of California",
-      "Bill Lockyer, former Attorney General of California"
+      "https://www.courts.ca.gov/documents/IOP_District1.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-record-request-form.pdf",
-      "Record Retrieval Request Form",
-      "Record Retrieval Request Form"
+      "https://www.courts.ca.gov/documents/5dca_Tentative_Oral_Argument_Dates.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-oral-argument-request-form.pdf",
-      "Oral Argument Copy Request Form",
-      "Oral Argument Copy Request Form"
+      "https://www.courts.ca.gov/documents/5dca-e-devices-in-courtroom-notice.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-externprogram.pdf",
-      "Summer Judicial Externship Program",
-      "Summer Judicial Externship Program"
+      "http://www.courts.ca.gov/documents/app001.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/2023-Oral-Argument-Calendar-Dates.pdf",
-      "2023 Oral Argument Calendar Dates",
-      "2023 Oral Argument Calendar Dates"
+      "http://www.courts.ca.gov/documents/app002.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-In-Person-OA-Guidelines.pdf",
-      "2dca Protocols for In-Person Oral Argument",
-      "2dca Protocols for In-Person Oral Argument"
+      "http://www.courts.ca.gov/documents/cr120.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/mc500.pdf",
-      "form MC-500",
-      "form MC-500"
+      "http://www.courts.ca.gov/documents/jv800.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/mc510.pd.pdf",
-      "form MC-510",
-      "form MC-510"
+      "http://www.courts.ca.gov/documents/jv820.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA_DIV_5_JUNE_29_CAL_AM.pdf",
-      "Calendar 9:00 a.m.",
-      "Calendar 9:00 a.m."
+      "https://www.courts.ca.gov/documents/app-004.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA_DIV_5_JUNE_29_CAL_PM.pdf",
-      "Calendar 1:30 p.m.",
-      "Calendar 1:30 p.m."
+      "http://www.courts.ca.gov/documents/fw001.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA_DIV_5_JUNE_30_CAL_AM.pdf",
-      "Calendar 9:00 a.m.",
-      "Calendar 9:00 a.m."
+      "https://www.courts.ca.gov/documents/5dca-additional-efiling-guidelines.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/notice_to_litigants.pdf",
-      "Notice to Litigants",
-      "Notice to Litigants"
+      "https://www.courts.ca.gov/documents/5DCA-Sample-Exhibits-Motion-Request-Application.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/app-004-2DCA.pdf",
-      "Civil Case Information Statement",
-      "Civil Case Information Statement"
+      "https://www.courts.ca.gov/documents/Pro_Se_Civil_Appeals_Workshop.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-01.pdf",
-      "Stipulation form (2DCA-01)",
-      "Stipulation form (2DCA-01)"
+      "https://www.courts.ca.gov/documents/app001info.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-04.pdf",
-      "Application for Extension of Time\\xa0(Brief)",
-      "Application for Extension of Time\\xa0(Brief)"
+      "https://www.courts.ca.gov/documents/4dca-div3-Self-Help-Manual-OC-Civil-Appeals.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-Copy_Service.pdf",
-      "copier service",
-      "copier service"
+      "https://www.courts.ca.gov/documents/2023_AMENDED_ORAL_ARGUMENT_CALENDAR_DATES_YEAR.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/IOP_District2.pdf",
-      "IOP District2",
-      "IOP District2"
+      "https://www.courts.ca.gov/documents/4DCA-Security-Protocols-for-the-Court-of-Appeal.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/AppCrtsSec-primer_2013rev.pdf",
-      "Basic Civil Appellate Practice",
-      "Basic Civil Appellate Practice"
+      "https://www.courts.ca.gov/documents/IOP_District4_division1.pdf"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2dca-Free-Self-Help-Clinic-for-Indigent-Civil-Litigants.pdf",
-      "Free Self-Help Clinic for Indigent Civil Litigants",
-      "Free Self-Help Clinic for Indigent Civil Litigants"
+      "https://www.courts.ca.gov/documents/IOP_District4_division3.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/complnce.pdf",
-      "Certificate of Compliance",
-      "Certificate of Compliance"
+      "https://www.courts.ca.gov/documents/4DCA3_Guide-Detailed.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/APP-006.pdf",
-      "Application for Extension of Time to File Brief Civil",
-      "Application for Extension of Time to File Brief Civil"
+      "https://www.courts.ca.gov/documents/4DCA-eFiling-additional-eFiling-guidelines.pdf"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/CR-126.pdf",
-      "Application for Extension of Time to File Brief Criminal",
-      "Application for Extension of Time to File Brief Criminal"
+      "https://www.courts.ca.gov/images/dca_dist6.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/JV-816.pdf",
-      "Application for Extension of Time to File Brief Juvenile Delinquency",
-      "Application for Extension of Time to File Brief Juvenile Delinquency"
+      "https://www.courts.ca.gov/images/6DCA_FIRST_COHORT.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/JV-817.pdf",
-      "Application for Extension of Time to File Brief Juvenile Dependency",
-      "Application for Extension of Time to File Brief Juvenile Dependency"
+      "https://www.courts.ca.gov/images/btn_eFilingGoGreen.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-02.pdf",
-      "Application for Extension of Time (Non-Brief)",
-      "Application for Extension of Time (Non-Brief)"
+      "https://www.courts.ca.gov/images/btn_SearchCaseInformation.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Stip_Ext_Time_CIV_APP-01.pdf",
-      "Stipulation for Extension of Time Civil (APP-01)",
-      "Stipulation for Extension of Time Civil (APP-01)"
+      "https://www.courts.ca.gov/images/gallery/btn_appellate_self-help.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/NoticeofAppeal-Mental_Health_APP-060.pdf",
-      "Notice of Appeal - Mental Health",
-      "Notice of Appeal - Mental Health"
+      "https://www.courts.ca.gov/images/ada_box_top.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-05.pdf",
-      "Request for Augmentation of Record Proposed Order (Civil)",
-      "Request for Augmentation of Record Proposed Order (Civil)"
+      "https://www.courts.ca.gov/images/ada_box_bottom.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-06.pdf",
-      "Request for Augmentation of Record Proposed Order (Criminal)",
-      "Request for Augmentation of Record Proposed Order (Criminal)"
+      "https://www.courts.ca.gov/images/dca_map_rdax_200x253s.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-07.pdf",
-      "Request for Augmentation of Record Proposed Order (Juvenile)",
-      "Request for Augmentation of Record Proposed Order (Juvenile)"
+      "https://www.courts.ca.gov/images/dca_dist4.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/fw016.pdf",
-      "Order on Court Fee Waiver (Court of Appeal or Supreme Court) (FW-016)",
-      "Order on Court Fee Waiver (Court of Appeal or Supreme Court) (FW-016)"
+      "https://www.courts.ca.gov/images/dca_dist5.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/l1013.pdf",
-      "Request and Order to File New Litigation by Vexatious Litigant",
-      "Request and Order to File New Litigation by Vexatious Litigant"
+      "https://www.courts.ca.gov/images/btn_5DCAOralArgumentViewCalendar_orange.png"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/mc410.pdf",
-      "Request for Accommodations by Persons with Disabilities and Response",
-      "Request for Accommodations by Persons with Disabilities and Response"
+      "https://www.courts.ca.gov/images/btn-selfhelp-immigration.png"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-16.pdf",
-      "Stipulated Request for Dismissal of Appeal (Civil Case)",
-      "Stipulated Request for Dismissal of Appeal (Civil Case)"
+      "https://www.courts.ca.gov/images/dca_dist1.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/app-001-2DCA.pdf",
-      "Information on Appeal Procedures for Unlimited Civil Cases",
-      "Information on Appeal Procedures for Unlimited Civil Cases"
+      "https://www.courts.ca.gov/images/Oral_Arg_Webcast_Button.png"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/fw015info.pdf",
-      "Information Sheet on Waiver of Appellate Court Fees (FW-015-INFO)",
-      "Information Sheet on Waiver of Appellate Court Fees (FW-015-INFO)"
+      "https://www.courts.ca.gov/images/dca_dist3.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/jobapp.pdf",
-      "Job Application",
-      "Job Application"
+      "https://www.courts.ca.gov/images/dca_dist2.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/app-003-2DCA.pdf",
-      "Notice Designating Record (2DCA/APP-003)",
-      "Notice Designating Record (2DCA/APP-003)"
+      "https://selfhelp.appellate.courts.ca.gov/wp-content/uploads/2018/08/ehelp-logo-1-300x129.png"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/noticesettle-2dca14.pdf",
-      "Notice of Settlement of Appeal",
-      "Notice of Settlement of Appeal"
+      "https://www.courts.ca.gov/images/GW_230509_0778-CofA-6th-Bench_web.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/party-ident-sheet.pdf",
-      "Party Identification Sheet",
-      "Party Identification Sheet"
+      "https://www.courts.ca.gov/images/Anderson.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA-15_POS.pdf",
-      "Proof of Service",
-      "Proof of Service"
+      "https://www.courts.ca.gov/images/icon-video-short.gif"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/subattyciv.pdf",
-      "Substitution of Attorney - Civil",
-      "Substitution of Attorney - Civil"
+      "https://www.courts.ca.gov/images/Deal.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/verification.pdf",
-      "Verification",
-      "Verification"
+      "https://www.courts.ca.gov/images/Robert_Dondero_2.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2dca_Misc_Order_2022-02..pdf",
-      "Miscellaneous Order 2022-02",
-      "Miscellaneous Order 2022-02"
+      "https://www.courts.ca.gov/images/Dossee.jpg"
     ],
     [
-      "2",
-      "https://www.courts.ca.gov/documents/2DCA_Elec_Format_Req_2022.pdf",
-      "2DCA Formatting Requirements and Guidelines",
-      "2DCA Formatting Requirements and Guidelines"
+      "https://www.courts.ca.gov/images/Haning.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/panel.jpg",
-      "Striving for Justice Panel Image",
-      "Striving for Justice Panel Image"
+      "https://www.courts.ca.gov/images/Hanlon.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/appdistc.pdf",
-      "23 counties",
-      "23 counties"
+      "https://www.courts.ca.gov/images/Kane.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/exhibitpanels.pdf",
-      "\"Striving for Justice: Yesterday, Today, and Tomorrow\" Informational Panels",
-      "\"Striving for Justice: Yesterday, Today, and Tomorrow\" Informational Panels"
+      "https://www.courts.ca.gov/images/Kay.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DCA-self-help-manual.pdf",
-      "self-represented",
-      "self-represented"
+      "https://www.courts.ca.gov/images/King_Donald.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DCA-Launch-of-E-Filing-20130318.pdf",
-      "Launch of E-Filing",
-      "Launch of E-Filing"
+      "https://www.courts.ca.gov/images/kline-30.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DCA-Notice-of-Change-of-Hours-20130103.pdf",
-      "Notice of Change of Hours",
-      "Notice of Change of Hours"
+      "https://www.courts.ca.gov/images/Low.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Letter_to_Bar_President.pdf",
-      "Letter to Bar Presidents",
-      "Letter to Bar Presidents"
+      "https://www.courts.ca.gov/images/aclp-marchiano.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/NR-28-06.PDF",
-      "Mediation Program Launch News Release",
-      "Mediation Program Launch News Release"
+      "https://www.courts.ca.gov/images/Newsom.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DCA-2023OralArgumentDates.pdf",
-      "2023 Oral Argument Calendar Dates",
-      "2023 Oral Argument Calendar Dates"
+      "https://www.courts.ca.gov/images/Parrilli.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3DCA_ElectronicDevices.pdf",
-      "policy",
-      "policy"
+      "https://www.courts.ca.gov/images/Peterson.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3dca-Local-Rule-5.pdf",
-      "Local Rule 5",
-      "Local Rule 5"
+      "https://www.courts.ca.gov/images/Poche.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/documents/3AC-IOPPrevisioneff03242023.pdf",
-      "3AC IOPPrevisioneff03242023",
-      "3AC IOPPrevisioneff03242023"
+      "https://www.courts.ca.gov/images/Stuart-Pollak-1.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/ext-trial.pdf",
-      "PDF",
-      "PDF"
+      "https://www.courts.ca.gov/images/Racanelli.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/ext-trial.doc",
-      "DOC",
-      "DOC"
+      "https://www.courts.ca.gov/images/ACLP-1-Rivera-151x101.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/3dca-justices.jpg",
-      "3rd District Court of Appeal Justices",
-      "3rd District Court of Appeal Justices"
+      "https://www.courts.ca.gov/documents/Ruvolo.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/image544.jpg",
-      "Norton Parker Chipman",
-      "Norton Parker Chipman"
+      "https://www.courts.ca.gov/images/Sabraw.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/imageVKU.jpg",
-      "Annette Abbott Adams",
-      "Annette Abbott Adams"
+      "https://www.courts.ca.gov/images/Photo-SANCHEZ-1b.jpg"
     ],
     [
-      "3",
-      "https://www.courts.ca.gov/images/puglia.jpg",
-      "Robert K. Puglia",
-      "Robert K. Puglia"
+      "https://www.courts.ca.gov/images/Sepulveda.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/GH-BIO.pdf",
-      "Judge Garen J. Horst",
-      "Judge Garen J. Horst"
+      "https://www.courts.ca.gov/documents/Siggins-photo-10.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1dca-oral-argument-calendar.pdf",
-      "Oral Argument Calendar Dates",
-      "Oral Argument Calendar Dates"
+      "https://www.courts.ca.gov/images/Strankman.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1dca-Misc-Order-2020-2.pdf",
-      "Order 2020-2",
-      "Order 2020-2"
+      "https://www.courts.ca.gov/images/Swager.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/Local_Rule_12.pdf",
-      "Rule 12",
-      "Rule 12"
+      "https://www.courts.ca.gov/images/Walker.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/eotcrim.pdf",
-      "Application for Extension of Time to File Brief (Criminal Case)",
-      "Application for Extension of Time to File Brief (Criminal Case)"
+      "https://www.courts.ca.gov/images/Abbe.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/eotjuv.pdf",
-      "Application for Extension of Time to File Brief (Juvenile Case)",
-      "Application for Extension of Time to File Brief (Juvenile Case)"
+      "https://www.courts.ca.gov/images/Alarcon.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/eotclerk.pdf",
-      "Clerk\\'s Affidavit and Order for Extension of Time to File Transcript on Appeal",
-      "Clerk\\'s Affidavit and Order for Extension of Time to File Transcript on Appeal"
+      "https://www.courts.ca.gov/images/aclp-Aldrich-151x101.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/dockcrim.pdf",
-      "Docketing Statement for Criminal Notice of Appeal",
-      "Docketing Statement for Criminal Notice of Appeal"
+      "https://www.courts.ca.gov/images/Armstrong-151x101.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/dockjuv.pdf",
-      "Docketing Statement for Juvenile Notice of Appeal and Juvenile Notice of Intent to File Writ Petition",
-      "Docketing Statement for Juvenile Notice of Appeal and Juvenile Notice of Intent to File Writ Petition"
+      "https://www.courts.ca.gov/images/Ashby-151x101.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/mc040.pdf",
-      "Notice of Change of Address",
-      "Notice of Change of Address"
+      "https://www.courts.ca.gov/images/Baron.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/eotrptr.pdf",
-      "Reporter\\'s Affidavit and Order for Extension of Time to File Transcript on Appeal",
-      "Reporter\\'s Affidavit and Order for Extension of Time to File Transcript on Appeal"
+      "https://www.courts.ca.gov/images/Beach.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Request_for_OA_form.pdf",
-      "Request for Oral Argument",
-      "Request for Oral Argument"
+      "https://www.courts.ca.gov/images/aclp-boland-74x101.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/recordstip.pdf",
-      "Stipulation for Use of Original Superior Court File in Lieu of Clerk\\'s Transcript",
-      "Stipulation for Use of Original Superior Court File in Lieu of Clerk\\'s Transcript"
+      "https://www.courts.ca.gov/images/aclp-2-Roger-Boren-photo-151x101.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1DCA-e-devices-policy.pdf",
-      "Policy of the First District on Public use of electronic devices in the courtroom",
-      "Policy of the First District on Public use of electronic devices in the courtroom"
+      "https://www.courts.ca.gov/images/Coffee-thumb.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1dca-Local-Rule-12-bookmarks-and-pagination.pdf",
-      "Bookmarking and Pagination",
-      "Bookmarking and Pagination"
+      "https://www.courts.ca.gov/images/Compton.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/EO-Judicial-Council.pdf",
-      "Emergency Order of the Judicial Council, March 18, 2020",
-      "Emergency Order of the Judicial Council, March 18, 2020"
+      "https://www.courts.ca.gov/images/Cooper_Candace.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/EO-1DCA.pdf",
-      "Emergency Order of the Court of Appeal, First District, March 18, 2020",
-      "Emergency Order of the Court of Appeal, First District, March 18, 2020"
+      "https://www.courts.ca.gov/images/Curry.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Implementation-Order-for-EO-20200409.pdf",
-      "Implementation Order of the Court of Appeal, First District, April 9, 2020",
-      "Implementation Order of the Court of Appeal, First District, April 9, 2020"
+      "https://www.courts.ca.gov/images/Justice_Dhanidina_103122.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Implementation-Order-for-EO-20200415.pdf",
-      "Implementation Order of the Court of Appeal, First District, April 15, 2020",
-      "Implementation Order of the Court of Appeal, First District, April 15, 2020"
+      "https://www.courts.ca.gov/images/Devich.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/94-1.pdf",
-      "1994-1 - Extensions of Time for Reporters\\' Transcripts",
-      "1994-1 - Extensions of Time for Reporters\\' Transcripts"
+      "https://www.courts.ca.gov/images/NormanEpstein.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/97-1.pdf",
-      "Misc Order \\'97-1 in Adobe Acrobat PDF format",
-      "Misc Order \\'97-1 in Adobe Acrobat PDF format"
+      "https://www.courts.ca.gov/images/Feinerrman.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1DCA-Miscellaneous-Order-2017-01.pdf",
-      "2017-01 - Reporter\\'s Transcripts in Felony Cases",
-      "2017-01 - Reporter\\'s Transcripts in Felony Cases"
+      "https://www.courts.ca.gov/images/Fleming.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Misc._order_2023-2_031323.pdf",
-      "Misc. order 2023-2 031323",
-      "Misc. order 2023-2 031323"
+      "https://www.courts.ca.gov/images/Gilbert-151x101.jpg"
     ],
     [
-      "1",
-      "https://www.courts.ca.gov/documents/1DCA-Local-Rule-12.pdf",
-      "Local Rule 12",
-      "Local Rule 12"
+      "https://www.courts.ca.gov/images/Goertzen.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/sample-form-letter.pdf",
-      "form letter",
-      "form letter"
+      "https://www.courts.ca.gov/images/Grignon.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/IOP_District1.pdf",
-      "IOP District1",
-      "IOP District1"
+      "https://www.courts.ca.gov/images/Hastings_J_G.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca_Tentative_Oral_Argument_Dates.pdf",
-      "Tentative Oral Argument Calendar Dates",
-      "Tentative Oral Argument Calendar Dates"
+      "https://www.courts.ca.gov/images/Hastings_J_H.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca-e-devices-in-courtroom-notice.pdf",
-      "View the Notice",
-      "View the Notice"
+      "https://www.courts.ca.gov/images/Hinz.jpg"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/app001.pdf",
-      "APP-001",
-      "APP-001"
+      "https://www.courts.ca.gov/images/Hufstedler.jpg"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/app002.pdf",
-      "APP-002",
-      "APP-002"
+      "https://www.courts.ca.gov/images/Jackson-151x101.jpg"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/cr120.pdf",
-      "CR-120",
-      "CR-120"
+      "https://www.courts.ca.gov/images/Johnson_Jr_Earl.jpg"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/jv800.pdf",
-      "JV-800",
-      "JV-800"
+      "https://www.courts.ca.gov/images/PattiKitching.jpg"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/jv820.pdf",
-      "JV-820",
-      "JV-820"
+      "https://www.courts.ca.gov/images/Klein.jpg"
     ],
     [
-      "5",
-      "http://www.courts.ca.gov/documents/5DCA-Formatting-Guidelines-Exhibits-Motion-Request-Application.pdf",
-      "Formatting Guidelines for Exhibits",
-      "Formatting Guidelines for Exhibits"
+      "https://www.courts.ca.gov/images/Lui.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app-004.pdf",
-      "APP-004",
-      "APP-004"
+      "https://www.courts.ca.gov/documents/Robert-Mallano.jpg"
     ],
     [
-      "",
-      "http://www.courts.ca.gov/documents/fw001.pdf",
-      "FW-001",
-      "FW-001"
+      "https://www.courts.ca.gov/images/Masterson.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca_mediation_questionnaire_filable.pdf",
-      "5DCA Mediation Program Questionnaire - Fillable Form",
-      "5DCA Mediation Program Questionnaire - Fillable Form"
+      "https://www.courts.ca.gov/images/mosk-151x101.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca_mediation_questionnaire.pdf",
-      "5DCA Mediation Program Questionnaire - Printable Form",
-      "5DCA Mediation Program Questionnaire - Printable Form"
+      "https://www.courts.ca.gov/images/Neal.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/FormsofPayment.jpg",
-      "FormsofPayment",
-      "FormsofPayment"
+      "https://www.courts.ca.gov/images/Nott.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Request_for_Extension_of_Time_5DCA_0922.pdf",
-      "Request for Extension of Time (Trial Court Clerks and/or Court Reporters)",
-      "Request for Extension of Time (Trial Court Clerks and/or Court Reporters)"
+      "https://www.courts.ca.gov/images/Ortega.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/5district_writ.pdf",
-      "website",
-      "website"
+      "https://www.courts.ca.gov/documents/Perren.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Criminal-Case-Information-Sheet.doc",
-      "Criminal Case Information Sheet",
-      "Criminal Case Information Sheet"
+      "https://www.courts.ca.gov/images/Stone.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Notification-of-Filing-Notice-of-Appeal-Civil.pdf",
-      "Civil",
-      "Civil"
+      "https://www.courts.ca.gov/images/Thompson_Robert_S.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Notification-of-Filing-Notice-of-Appeal-Criminal.pdf",
-      "Criminal",
-      "Criminal"
+      "https://www.courts.ca.gov/images/Vogel-C.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Notification-of-Filing-Notice-of-Appeal-Dependency.pdf",
-      "Juvenile Dependency",
-      "Juvenile Dependency"
+      "https://www.courts.ca.gov/images/Vogel-M.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca-Administrative-Order-2022-3-14.pdf",
-      "Administrative Order\\xa0\\xa0March 14, 2022",
-      "Administrative Order\\xa0\\xa0March 14, 2022"
+      "https://www.courts.ca.gov/images/Woods_Arleigh__M.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/4th-Implementation-Order-2020-04-20.pdf",
-      "Emergency Order April 20, 2020",
-      "Emergency Order April 20, 2020"
+      "https://www.courts.ca.gov/images/Zebrowski.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/2020-04-16_OFF.pdf",
-      "Emergency Order April 16, 2020",
-      "Emergency Order April 16, 2020"
+      "https://www.courts.ca.gov/documents/Laurie-Zelon.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Signed-EO-Joint-request-for-DCAs.pdf",
-      "Judicial Council Emergency Order April 15, 2020",
-      "Judicial Council Emergency Order April 15, 2020"
+      "https://www.courts.ca.gov/images/Blease_Coleman_A.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/2nd-Implementation-Order-041320.pdf",
-      "Emergency Order April 13, 2020",
-      "Emergency Order April 13, 2020"
+      "https://www.courts.ca.gov/images/Callahan_Consuelo.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Implementation_Order_for_EO_5th.pdf",
-      "Emergency Order March 23, 2020",
-      "Emergency Order March 23, 2020"
+      "https://www.courts.ca.gov/images/Rodney-Davis.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Signed-EO-5DCA.pdf",
-      "Judicial Council Emergency Order March 23, 2020",
-      "Judicial Council Emergency Order March 23, 2020"
+      "https://www.courts.ca.gov/images/Evans_Hugh_A.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/Order-COVID19-5dca.pdf",
-      "Emergency Order March 17, 2020",
-      "Emergency Order March 17, 2020"
+      "https://www.courts.ca.gov/images/Morrison_Fred_K.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca-mo20180108.pdf",
-      "Order Regarding Reporters Transcripts for Appointed Counsel - Effective January 1, 2018",
-      "Order Regarding Reporters Transcripts for Appointed Counsel - Effective January 1, 2018"
+      "https://www.courts.ca.gov/images/aclp-George-Nicholson.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca-mo061411.pdf",
-      "Order\\xa0Regarding Revisions to Local Rule 2 - Adopts Mediation\\xa0Program in Civil Appeals\\xa0- June 14, 2011",
-      "Order\\xa0Regarding Revisions to Local Rule 2 - Adopts Mediation\\xa0Program in Civil Appeals\\xa0- June 14, 2011"
+      "https://www.courts.ca.gov/images/Puglia_Robert_K.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5dca-additional-efiling-guidelines.pdf",
-      "Additional E-filing guidelines for submitting documents to the Court of Appeal, Fifth Appellate District",
-      "Additional E-filing guidelines for submitting documents to the Court of Appeal, Fifth Appellate District"
+      "https://www.courts.ca.gov/documents/Justice_Robie_Pic.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/documents/5DCA-Sample-Exhibits-Motion-Request-Application.pdf",
-      "5DCA Sample Exhibits Motion Request Application",
-      "5DCA Sample Exhibits Motion Request Application"
+      "https://www.courts.ca.gov/images/Scotland_151x101.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/5dca-justices.jpg",
-      "Current Justices of the 5th District Court of Appeals",
-      "Current Justices of the 5th District Court of Appeals"
+      "https://www.courts.ca.gov/images/Sims_III_Richard_M.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/ArdaizJ.jpg",
-      "Profile picture of former Justice James Ardaiz",
-      "Profile picture of former Justice James Ardaiz"
+      "https://www.courts.ca.gov/images/Sparks_Keith_F.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/CornellD.jpg",
-      "Profile picture of Justice Dennis A. Cornell",
-      "Profile picture of Justice Dennis A. Cornell"
+      "https://www.courts.ca.gov/documents/Richard-Aronson.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/DawsonB.jpg",
-      "Profile picture of former Justice Betty L. Dawson",
-      "Profile picture of former Justice Betty L. Dawson"
+      "https://www.courts.ca.gov/images/Benke-151x101.jpg"
     ],
     [
-      "5",
-      "https://www.courts.ca.gov/images/5DCA-Gomes-60x80.jpg",
-      "Profile picture of former Justice Gene M. Gomes",
-      "Profile picture of former Justice Gene M. Gomes"
+      "https://www.courts.ca.gov/images/Brown_Gerald.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/HarrisT.jpg",
-      "Profile picture of former Justice Thomas A. Harris",
-      "Profile picture of former Justice Thomas A. Harris"
+      "https://www.courts.ca.gov/images/Cologne_Gordon.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/KaneS.jpg",
-      "Profile picture of Justice Stephen Kane",
-      "Profile picture of Justice Stephen Kane"
+      "https://www.courts.ca.gov/images/Froehlich_Charles_W.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/VartabedianS.jpg",
-      "Profile picture of Justice Steven M. Vartabedian",
-      "Profile picture of Justice Steven M. Vartabedian"
+      "https://www.courts.ca.gov/images/aclp-4-Fybell_151x101.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/images/WisemanR.jpg",
-      "Profile picture of former Justice Rebecca A. Wiseman",
-      "Profile picture of former Justice Rebecca A. Wiseman"
+      "https://www.courts.ca.gov/images/Gabbert_John_G.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-seal-text.png",
-      "4dca seal text",
-      "4dca seal text"
+      "https://www.courts.ca.gov/images/Gaut_Barton_C.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/Pro_Se_Civil_Appeals_Workshop.pdf",
-      "Riverside Pro-Se Civil Appeals Workshop",
-      "Riverside Pro-Se Civil Appeals Workshop"
+      "https://www.courts.ca.gov/images/Judith-Haller-2-151x101.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/basic_app_proc.pdf",
-      "Basic Appellate Procedure",
-      "Basic Appellate Procedure"
+      "https://www.courts.ca.gov/images/Hollenhorst_Thomas_E.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/civ_app_handout.pdf",
-      "Preliminary Steps for Civil Appeals: Information Handout",
-      "Preliminary Steps for Civil Appeals: Information Handout"
+      "https://www.courts.ca.gov/images/ACLP-4dca-Richard-Huffman-photo.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Div1-Handout-on-Writs.pdf",
-      "Handout on Writs",
-      "Handout on Writs"
+      "https://www.courts.ca.gov/documents/Ikola.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/app001info.pdf",
-      "Information on Civil Appeal Procedures",
-      "Information on Civil Appeal Procedures"
+      "https://www.courts.ca.gov/images/Kremer_Daniel_J.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div3-Self-Help-Manual-OC-Civil-Appeals.pdf",
-      "Self-Help Manual for Orange County Civil Appeals",
-      "Self-Help Manual for Orange County Civil Appeals"
+      "https://www.courts.ca.gov/images/Lewis_Gerald.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/mcconnell.jpg",
-      "Judith McConnell",
-      "Judith McConnell"
+      "https://www.courts.ca.gov/images/aclp-4-McConnell_151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/huffman.jpg",
-      "Richard D. Huffman",
-      "Richard D. Huffman"
+      "https://www.courts.ca.gov/images/McDaniel_F_D.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/orourke.jpg",
-      "Terry B. O\\'Rourke",
-      "Terry B. O\\'Rourke"
+      "https://www.courts.ca.gov/images/aclp-4-mcdonald-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/irion.jpg",
-      "Joan Irion",
-      "Joan Irion"
+      "https://www.courts.ca.gov/images/aclp-4-mcintyre-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/wdato.jpg",
-      "William Dato",
-      "William Dato"
+      "https://www.courts.ca.gov/images/Art-McKinster-2-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/JDo_photo.jpg",
-      "Truc T. Do",
-      "Truc T. Do"
+      "https://www.courts.ca.gov/images/Eileen-Moore-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-J-Buchanan-photo.JPG",
-      "Martin N. Buchanan",
-      "Martin N. Buchanan"
+      "https://www.courts.ca.gov/images/aclp-4-Nares_151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Justice-Kelety.jpg",
-      "Julia C. Kelety",
-      "Julia C. Kelety"
+      "https://www.courts.ca.gov/images/Manuel-Ramirez.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Jose-Castillo-Photograph.jpg",
-      "Jose S. Castillo",
-      "Jose S. Castillo"
+      "https://www.courts.ca.gov/images/Rylaarsdam_Legacy.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/J.Rubin.jpg",
-      "David M. Rubin",
-      "David M. Rubin"
+      "https://www.courts.ca.gov/images/Scoville_Harmon.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/ramirez.jpg",
-      "Manuel A. Ramirez",
-      "Manuel A. Ramirez"
+      "https://www.courts.ca.gov/images/aclp-Sills-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/mckinster.jpg",
-      "Art W. McKinster",
-      "Art W. McKinster"
+      "https://www.courts.ca.gov/images/Sonenshine_Sheila.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/miller-sm.jpg",
-      "Douglas P. Miller",
-      "Douglas P. Miller"
+      "https://www.courts.ca.gov/images/Timlin_Robert.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/codrington.jpg",
-      "Carol D. Codrington",
-      "Carol D. Codrington"
+      "https://www.courts.ca.gov/images/Todd_Jr_William.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-slough-bio-photo-135x168.jpg",
-      "Marsha G. Slough",
-      "Marsha G. Slough"
+      "https://www.courts.ca.gov/images/Trotter.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-div2-Richard-T-Fields-135x168.jpg",
-      "Associate Justice Richard T. Fields",
-      "Associate Justice Richard T. Fields"
+      "https://www.courts.ca.gov/images/Wallin.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-raphael-bio-photo-135x168.jpg",
-      "Associate Justice Michael J. Raphael photo",
-      "Associate Justice Michael J. Raphael photo"
+      "https://www.courts.ca.gov/images/Ward_James_D.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-menetrez-bio-photo-125x160.jpg",
-      "Justice Frank J. Menetrez",
-      "Justice Frank J. Menetrez"
+      "https://www.courts.ca.gov/images/Weiner.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/OLeary.png",
-      "Kathleen E. O\\'Leary",
-      "Kathleen E. O\\'Leary"
+      "https://www.courts.ca.gov/images/Andreen.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Bedsworth.png",
-      "Wiliam W. Bedsworth",
-      "Wiliam W. Bedsworth"
+      "https://www.courts.ca.gov/images/Ardaiz-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Moore.png",
-      "Eileen C. Moore",
-      "Eileen C. Moore"
+      "https://www.courts.ca.gov/images/Ballantyne.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Goethals.png",
-      "Associate Justice Thomas M. Goethals",
-      "Associate Justice Thomas M. Goethals"
+      "https://www.courts.ca.gov/images/Buckley.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Sanchez.png",
-      "Associate Justice Maurice Sanchez",
-      "Associate Justice Maurice Sanchez"
+      "https://www.courts.ca.gov/images/aclp-5-Cornell-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Motoike.png",
-      "Associate Justice Thomas M. Goethals",
-      "Associate Justice Thomas M. Goethals"
+      "https://www.courts.ca.gov/images/Dawson-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/images/Delaney.png",
-      "Associate Justice Thomas A. Delaney",
-      "Associate Justice Thomas A. Delaney"
+      "https://www.courts.ca.gov/images/ACLP-Kane_Stephen_J-bio-photo.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/2023_AMENDED_ORAL_ARGUMENT_CALENDAR_DATES_YEAR.pdf",
-      "2023 Oral Argument Calendar Dates",
-      "2023 Oral Argument Calendar Dates"
+      "https://www.courts.ca.gov/images/Martin_Robert_L.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Security-Protocols-for-the-Court-of-Appeal.pdf",
-      "More information on Security Screening Procedures",
-      "More information on Security Screening Procedures"
+      "https://www.courts.ca.gov/images/Thaxter.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/IOP_District4_division1.pdf",
-      "IOP District4 division1",
-      "IOP District4 division1"
+      "https://www.courts.ca.gov/images/Vartabedian.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/IOP_District4_division3.pdf",
-      "IOP District4 division3",
-      "IOP District4 division3"
+      "https://www.courts.ca.gov/images/Wiseman-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA3_Guide-Detailed.pdf",
-      "Orange County Appeals-a Detailed Guide",
-      "Orange County Appeals-a Detailed Guide"
+      "https://www.courts.ca.gov/images/Zenovich.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-local-rules-2023.pdf",
-      "Local Rules of the Fourth Appellate District",
-      "Local Rules of the Fourth Appellate District"
+      "https://www.courts.ca.gov/images/Nat-Agliano151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Misc-Order-010317.pdf",
-      "Repeal of Local Rule 5, Misc. Order No. 010317",
-      "Repeal of Local Rule 5, Misc. Order No. 010317"
+      "https://www.courts.ca.gov/images/Brauer.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dcaapp.pdf",
-      "Application for Employment",
-      "Application for Employment"
+      "https://www.courts.ca.gov/images/Cottle.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/ltrlweb.pdf",
-      "Request\\xa0for Oral Argument",
-      "Request\\xa0for Oral Argument"
+      "https://www.courts.ca.gov/documents/Nathan-Mihara.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/sd1.pdf",
-      "Settlement",
-      "Settlement"
+      "https://www.courts.ca.gov/images/Richard-McAdams-151x101.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-CivilCourtReporterEOT-Form.pdf",
-      "Civil Court Reporter Extension of Time Form",
-      "Civil Court Reporter Extension of Time Form"
+      "https://www.courts.ca.gov/images/Wunderlich.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-Div1-Confidential-Settlement-Questionnaire.pdf",
-      "Confidential Settlement Questionnaire",
-      "Confidential Settlement Questionnaire"
+      "https://www.courts.ca.gov/images/100celebration.jpg"
     ],
     [
-      "",
-      "https://www.courts.ca.gov/documents/not_inc_juv_rec.pdf",
-      "Notification of Incomplete Juvenile Dependency Record",
-      "Notification of Incomplete Juvenile Dependency Record"
+      "https://www.courts.ca.gov/images/panel.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-011314-Exception-to-Rule-8-47-c-1.pdf",
-      "Exception to Rule 8.47(c)(1)",
-      "Exception to Rule 8.47(c)(1)"
+      "https://www.courts.ca.gov/images/image544.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-div1-Electronic-Transcript-to-Minors-Counsel.pdf",
-      "Electronic Transcript to Minors Counsel",
-      "Electronic Transcript to Minors Counsel"
+      "https://www.courts.ca.gov/images/imageVKU.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-Juvenile-Transcripts.pdf",
-      "Juvenile Transcripts",
-      "Juvenile Transcripts"
+      "https://www.courts.ca.gov/images/puglia.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-020411B-Criminal-Augment-Order.pdf",
-      "Criminal augment order",
-      "Criminal augment order"
+      "https://www.courts.ca.gov/images/FormsofPayment.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-020411A-Juvenile-Augment-Order.pdf",
-      "Juvenile Dependency augment order",
-      "Juvenile Dependency augment order"
+      "https://www.courts.ca.gov/images/5dca-justices.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-061218-Oral-Argument-Time-Limit-Order.pdf",
-      "Oral argument time limit order",
-      "Oral argument time limit order"
+      "https://www.courts.ca.gov/images/ArdaizJ.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-052010-AG-email-service-order.pdf",
-      "AG e-mail service order",
-      "AG e-mail service order"
+      "https://www.courts.ca.gov/images/CornellD.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-112812-ADI-access-to-superior-court-records.pdf",
-      "ADI Access to Superior Court Records",
-      "ADI Access to Superior Court Records"
+      "https://www.courts.ca.gov/images/DawsonB.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div1-misc-order-111816-rule-time-civil-reporters.pdf",
-      "Civil Transcripts Filing Deadline",
-      "Civil Transcripts Filing Deadline"
+      "https://www.courts.ca.gov/images/5DCA-Gomes-60x80.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div2-miscellaneous-orders.pdf",
-      "Miscellaneous Orders for 4th District Division 2",
-      "Miscellaneous Orders for 4th District Division 2"
+      "https://www.courts.ca.gov/images/HarrisT.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA3-NoticeSettlement.pdf",
-      "Notice of Settlement",
-      "Notice of Settlement"
+      "https://www.courts.ca.gov/images/KaneS.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-StipDismissal-form.pdf",
-      "Stipulated Request for Dismissal of Appeal",
-      "Stipulated Request for Dismissal of Appeal"
+      "https://www.courts.ca.gov/images/VartabedianS.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4d3oa-request.pdf",
-      "Request for Oral Argument Form",
-      "Request for Oral Argument Form"
+      "https://www.courts.ca.gov/images/WisemanR.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4d3oa-recording.pdf",
-      "Request for Oral Argument Recording",
-      "Request for Oral Argument Recording"
+      "https://www.courts.ca.gov/documents/4dca-seal-text.png"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4dca-div3-misc-order-2016-1.pdf",
-      "Miscellaneous Order 2016-1",
-      "Miscellaneous Order 2016-1"
+      "https://www.courts.ca.gov/images/mcconnell.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/juvdepend-doccopy-dca4div3.pdf",
-      "Copying all juvenile dependency documents order",
-      "Copying all juvenile dependency documents order"
+      "https://www.courts.ca.gov/images/huffman.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/pet-rehearing-dca4div3.pdf",
-      "Petition for rehearing order",
-      "Petition for rehearing order"
+      "https://www.courts.ca.gov/images/orourke.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4d3-miscordershortfall.pdf",
-      "Order Discontinuing Settlement Program in Light of Budgetary Shortfall",
-      "Order Discontinuing Settlement Program in Light of Budgetary Shortfall"
+      "https://www.courts.ca.gov/images/irion.jpg"
     ],
     [
-      "4",
-      "https://www.courts.ca.gov/documents/4DCA-eFiling-additional-eFiling-guidelines.pdf",
-      "Additional Electronic Filing Guidelines for Submitting Documents to Court of Appeal, Fourth Appellate District",
-      "Additional Electronic Filing Guidelines for Submitting Documents to Court of Appeal, Fourth Appellate District"
+      "https://www.courts.ca.gov/images/wdato.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/JDo_photo.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Justice-Kelety.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Jose-Castillo-Photograph.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/J.Rubin.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/ramirez.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/mckinster.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/miller-sm.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/codrington.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/4dca-slough-bio-photo-135x168.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/4dca-div2-Richard-T-Fields-135x168.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/4dca-raphael-bio-photo-135x168.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/4dca-menetrez-bio-photo-125x160.jpg"
+    ],
+    [
+      "https://www.courts.ca.gov/images/OLeary.png"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Bedsworth.png"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Moore.png"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Goethals.png"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Sanchez.png"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Motoike.png"
+    ],
+    [
+      "https://www.courts.ca.gov/images/Delaney.png"
     ]
   ]
 }
