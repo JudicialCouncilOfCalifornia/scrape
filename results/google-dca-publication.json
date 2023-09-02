@@ -1,5 +1,5 @@
 {
-  "range": "'_pub'!A1:Y999",
+  "range": "'_pub'!A1:Y982",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -681,7 +681,7 @@
       "Request for Extension of Time (Trial Court Clerks or Court Reporters)",
       "",
       "",
-      "https://www.courts.ca.gov/documents/ext-trial.pdf,https://www.courts.ca.gov/documents/ext-trial.doc",
+      "https://www.courts.ca.gov/documents/ext-trial.pdf",
       "**This form is a request for an extension of time to file the CLERK'S or REPORTER'S transcripts. The deadline for filing this document is **[date].****\n\nThe form includes the case title, the appellate case number, and the county and case number of the trial court. It also includes the date by which the transcripts are due and the date that the requester is requesting an extension to.\n\nThe form must be signed by the requester and dated. It should be filed with the trial court clerk or court reporter.\n\nHere are some additional details about the form:\n\n* The form can be used to request an extension of time to file any type of transcript, including clerk's transcripts, reporter's transcripts, and deposition transcripts.\n* The court may grant an extension of time for good cause. Good cause may include illness, death in the family, or other unforeseen circumstances.\n* The court may grant an extension of time for a limited period of time, such as 30 days or 60 days.\n* The court may require the requester to pay a filing fee for an extension of time.\n\nI hope this summary is helpful. Please let me know if you have any other questions."
     ],
     [
@@ -1170,46 +1170,6 @@
       "",
       "https://www.courts.ca.gov/documents/Request_for_Extension_of_Time_5DCA_0922.pdf",
       "* The form is a request for an extension of time to file the clerk's and/or reporter's transcripts.\n* The deadline for filing the document is [date].\n* The applicant is requesting an extension until [date].\n* The case name is [name].\n* The appellate case number is [number].\n* The trial court name is [name].\n* The trial court number is [number]."
-    ],
-    [
-      "5",
-      "",
-      "form",
-      "Extensions of Time",
-      "Application for Extension of Time to File Brief (Civil Case)",
-      "",
-      "",
-      "https://selfhelp.courts.ca.gov/jcc-form/APP-006"
-    ],
-    [
-      "5",
-      "",
-      "form",
-      "Extensions of Time",
-      "Application for Extension of Time to File Brief (Criminal Case)",
-      "",
-      "",
-      "https://selfhelp.courts.ca.gov/jcc-form/CR-126"
-    ],
-    [
-      "5",
-      "",
-      "form",
-      "Extensions of Time",
-      "Application for Extension of Time to File Brief (Juvenile Delinquency)",
-      "",
-      "",
-      "https://selfhelp.courts.ca.gov/jcc-form/JV-816"
-    ],
-    [
-      "5",
-      "",
-      "form",
-      "Extensions of Time",
-      "Application for Extension of Time to File Brief (Juvenile Dependency)",
-      "",
-      "",
-      "https://selfhelp.courts.ca.gov/jcc-form/JV-817"
     ],
     [
       "5",
@@ -1841,17 +1801,6 @@
       "",
       "miscellaneous orders",
       "",
-      "Miscellaneous Order 20-00",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/6dca-misc-order-20-001.pdf,https://www.courts.ca.gov/documents/6dca-misc-order-20-002.pdf",
-      "This document is an order from the Court of Appeal of California's Sixth District to suspend oral argument sessions due to the health emergency caused by the COVID-19 virus. The suspension will remain in place until it is safe to resume normal procedures."
-    ],
-    [
-      "6",
-      "",
-      "miscellaneous orders",
-      "",
       "Emergency order",
       "",
       "",
@@ -2011,16 +1960,6 @@
       "",
       "https://www.courts.ca.gov/documents/4DCA-Electronic-Devices-in-the-Courtroom.pdf",
       "Courts of Appeal in California have adopted a policy allowing the use of laptop computers and tablets in court rooms during oral arguments. These devices must be silenced and placed in \"airplane mode\" at all times. They can only be used by lawyers or self-represented litigants to aid in presenting oral argument and cannot be used to display evidence. Cellular phones and other electronic devices are not allowed and no audio or video recording or photography is permitted without following the California Rules of Court. Anyone who does not follow this policy will be removed from the court room."
-    ],
-    [
-      "5",
-      "",
-      "Fee Schedule",
-      "",
-      "Fee Schedule 07.01.23 5DCA",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/Fee_Schedule_07.01.23_5DCA.pdf"
     ],
     [
       "5",
@@ -2207,26 +2146,6 @@
       "",
       "https://www.courts.ca.gov/documents/hc100.pdf",
       "This form is for attorneys who are applying to be included on a panel of qualified attorneys to represent people in death penalty-related habeas corpus proceedings. The form requires applicants to provide information about their experience, training, and qualifications, as well as attestations and recommendations from other attorneys."
-    ],
-    [
-      "2",
-      "",
-      "miscellaneous orders",
-      "",
-      "2dca Misc ORD 2022 02",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/2dca_Misc_ORD_2022-02.pdf"
-    ],
-    [
-      "2",
-      "",
-      "Attorney recruitment",
-      "",
-      "View more information about the Appellate Court Attorney position.",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/2dca-Appellate-Attorney-Central-Staff-0422.pdf"
     ],
     [
       "2",
@@ -2567,16 +2486,6 @@
       "",
       "https://www.courts.ca.gov/documents/DCASC-Sample-Appendix.pdf",
       "This is a court document from the Court of Appeal of California in a case between a plaintiff and a defendant. The document includes a Master Chronological Index and a Master Alphabetical Index listing the different documents filed in the case, such as the complaint, answer, motion, and declarations. It also includes a Declaration of Service."
-    ],
-    [
-      "",
-      "",
-      "Guide",
-      "",
-      "DCASC Formatting Guidelines Exhibits to Petition",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/DCASC-Formatting-Guidelines-Exhibits-to-Petition.pdf"
     ],
     [
       "",
@@ -4617,16 +4526,6 @@
     [
       "4",
       "",
-      "Biography",
-      "",
-      "Richard D. Huffman",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/ACLP-4dca-Richard-Huffman-bio.pdf"
-    ],
-    [
-      "4",
-      "",
       "Transcript",
       "",
       "ACLP 4dca Richard Huffman Transcript",
@@ -5578,36 +5477,6 @@
       "This document is an order from a court that permits a media agency to cover a specific case. The order considers factors such as the importance of maintaining public trust in the judicial system, the privacy rights of participants, and the effect of coverage on witnesses. It also outlines restrictions on media personnel and equipment, such as the number of cameras and microphones, and prohibits coverage of certain proceedings. Violations of the order may result in sanctions."
     ],
     [
-      "2",
-      "",
-      "Calendar",
-      "",
-      "Calendar 9:00 a.m.",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/2DCA_DIV_5_JUNE_29_CAL_AM.pdf"
-    ],
-    [
-      "2",
-      "",
-      "Calendar",
-      "",
-      "Calendar 1:30 p.m.",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/2DCA_DIV_5_JUNE_29_CAL_PM.pdf"
-    ],
-    [
-      "2",
-      "",
-      "Calendar",
-      "",
-      "Calendar 9:00 a.m.",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/2DCA_DIV_5_JUNE_30_CAL_AM.pdf"
-    ],
-    [
       "",
       "",
       "Policy",
@@ -5750,17 +5619,6 @@
       "The Court of Appeal, Third Appellate District, is offering a free training course in May 2008 for attorneys and retired judges to become mediators in the Appellate Mediation Program. This program is designed to speed up the case resolution process and reduce costs for litigants and the court. The training is free, but participants must accept up to four mediation referrals. Applications are due by March 15, 2008."
     ],
     [
-      "",
-      "",
-      "News release",
-      "",
-      "Mediation Program Launch News Release",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/NR-28-06.PDF",
-      "The Court of Appeal, Third Appellate District in California is launching a mediation program for civil cases to help speed up the case resolution process and reduce costs. The court is offering free mediation training to attorneys, retired judges, and lay mediation specialists who are selected to participate in the program. Applications are currently being accepted from individuals who are interested in serving as mediators."
-    ],
-    [
       "3",
       "",
       "Calendar",
@@ -5835,16 +5693,6 @@
       "",
       "https://www.courts.ca.gov/documents/1dca-oral-argument-calendar.pdf",
       "The Court of Appeal, First Appellate District has released its 2023 Oral Argument Calendar. This calendar shows the tentative dates for oral arguments for each division of the court from January to December 2023. It also shows the dates for oral arguments for the Supreme Court. Always verify the dates with the Clerk of the division to which your case was assigned."
-    ],
-    [
-      "1",
-      "",
-      "miscellaneous orders",
-      "",
-      "Order 2020-2",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/1dca-Misc-Order-2020-2.pdf"
     ],
     [
       "1",
@@ -5943,16 +5791,6 @@
       "",
       "https://www.courts.ca.gov/documents/1DCA-Miscellaneous-Order-2017-01.pdf",
       "This order states that beginning January 1, 2018, all parties involved in criminal appeals in the state of California must follow certain rules. These rules include that the defendant's copy of the reporter's transcript must be delivered in either paper or electronic form."
-    ],
-    [
-      "",
-      "",
-      "miscellaneous orders",
-      "",
-      "Misc. order 2023-2 031323",
-      "",
-      "",
-      "https://www.courts.ca.gov/documents/Misc._order_2023-2_031323.pdf"
     ],
     [
       "1",
@@ -6065,16 +5903,6 @@
       "A juvenile court has made an order setting a hearing under Welfare and Institutions Code section 366.26. This hearing may result in the termination of parental rights and adoption of the child. If you want to challenge the court's decision, you must file a Notice of Intent to File Writ Petition and Request for Record within 7-27 days from the date the court set the hearing. You must also provide copies of the petition to all parties in the case, the child's CASA volunteer, the child's present caregiver, and any de facto parent who has standing to participate in the juvenile court proceedings."
     ],
     [
-      "5",
-      "",
-      "Guide",
-      "",
-      "Formatting Guidelines for Exhibits",
-      "",
-      "",
-      "http://www.courts.ca.gov/documents/5DCA-Formatting-Guidelines-Exhibits-Motion-Request-Application.pdf"
-    ],
-    [
       "",
       "",
       "form",
@@ -6126,8 +5954,7 @@
       "Riverside Pro-Se Civil Appeals Workshop",
       "",
       "",
-      "https://www.courts.ca.gov/documents/Pro_Se_Civil_Appeals_Workshop.pdf",
-      "The Catcher in the Rye\" is a classic novel by J.D. Salinger that follows the story of Holden Caulfield, a teenage boy who is struggling to find his place in the world. It is a coming-of-age story that explores themes of identity, loneliness, and the search for meaning in life.\n\n\"The Catcher in the Rye\" is a classic novel about a teenage boy's journey to find his place in the world. It explores themes of identity, loneliness, and the search for meaning in life."
+      "https://www.courts.ca.gov/documents/Pro_Se_Civil_Appeals_Workshop.pdf"
     ],
     [
       "",
