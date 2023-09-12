@@ -1,5 +1,5 @@
 {
-  "range": "'_all_files'!A1:Y1007",
+  "range": "'_all_files'!A1:Y1000",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2250,19 +2250,7 @@
       "https://www.courts.ca.gov/images/segal.jpg"
     ],
     [
-      "https://www.courts.ca.gov/images/TariCody.png"
-    ],
-    [
-      "https://www.courts.ca.gov/images/Hernaldo-j-baltodano.png"
-    ],
-    [
       "https://www.courts.ca.gov/images/perluss.jpg"
-    ],
-    [
-      "https://www.courts.ca.gov/images/2DCA-Yegan-150x180.jpg"
-    ],
-    [
-      "https://www.courts.ca.gov/images/gilbertNEW.jpg"
     ],
     [
       "https://www.courts.ca.gov/images/DorothyCKim.jpg"
@@ -2386,9 +2374,6 @@
     ],
     [
       "https://www.courts.ca.gov/images/miller.jpg"
-    ],
-    [
-      "https://www.courts.ca.gov/images/4dca-J-Buchanan-photo.JPG"
     ],
     [
       "https://www.courts.ca.gov/images/aaron.jpg"
@@ -2685,9 +2670,6 @@
       "https://www.courts.ca.gov/images/BeachE.jpg"
     ],
     [
-      "https://www.courts.ca.gov/images/Justice_Bigelow.PNG"
-    ],
-    [
       "https://www.courts.ca.gov/images/BolandP.jpg"
     ],
     [
@@ -2740,9 +2722,6 @@
     ],
     [
       "https://www.courts.ca.gov/images/DevichR.jpg"
-    ],
-    [
-      "https://www.courts.ca.gov/images/P_JusticeDhanidina_2019_21_Rt_pp1RS.JPG"
     ],
     [
       "https://www.courts.ca.gov/images/Todd_60x80.jpg"

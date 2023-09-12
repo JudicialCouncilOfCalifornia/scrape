@@ -1,5 +1,5 @@
 {
-  "range": "'_images'!A1:N1537",
+  "range": "'_images'!A1:N1530",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1184,28 +1184,8 @@
     ],
     [
       "2",
-      "https://www.courts.ca.gov/images/TariCody.png",
-      "Tari L. Cody"
-    ],
-    [
-      "2",
-      "https://www.courts.ca.gov/images/Hernaldo-j-baltodano.png",
-      "Hernaldo J. Baltodano"
-    ],
-    [
-      "2",
       "https://www.courts.ca.gov/images/perluss.jpg",
       "Dennis M. Perluss"
-    ],
-    [
-      "2",
-      "https://www.courts.ca.gov/images/2DCA-Yegan-150x180.jpg",
-      "Kenneth R. Yegan"
-    ],
-    [
-      "2",
-      "https://www.courts.ca.gov/images/gilbertNEW.jpg",
-      "Arthur Gilbert"
     ],
     [
       "2",
@@ -1411,11 +1391,6 @@
       "4",
       "https://www.courts.ca.gov/images/miller.jpg",
       "Douglas P. Miller"
-    ],
-    [
-      "4",
-      "https://www.courts.ca.gov/images/4dca-J-Buchanan-photo.JPG",
-      "Martin N. Buchanan"
     ],
     [
       "4",
@@ -1909,11 +1884,6 @@
     ],
     [
       "2",
-      "https://www.courts.ca.gov/images/Justice_Bigelow.PNG",
-      "Tricia A. Bigelow"
-    ],
-    [
-      "2",
       "https://www.courts.ca.gov/images/BolandP.jpg",
       "Paul Boland"
     ],
@@ -2001,11 +1971,6 @@
       "2",
       "https://www.courts.ca.gov/images/DevichR.jpg",
       "Robert S. Devich"
-    ],
-    [
-      "2",
-      "https://www.courts.ca.gov/images/P_JusticeDhanidina_2019_21_Rt_pp1RS.JPG",
-      "Halim Dhanidina"
     ],
     [
       "2",
