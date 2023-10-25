@@ -8,7 +8,9 @@ from time import sleep
 import openai
 import os
 import re
+import sys
 
+filename = sys.argv[1]
 openai.api_key = os.environ['_CHATGPT_API_KEY']
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'}
 EOF_MARKER = b'%%EOF'
@@ -50,21 +52,28 @@ def bard(prompt):
     return bard.get_answer(prompt)['content']
 
 def chatgpt(prompt, model="gpt-3.5-turbo"):
-    response = openai.Completion.create(
-      model="text-davinci-003",
-      prompt="Summarize this for a high school student:\n\n\"" + prompt + "\"",
-      temperature=0.3,
-      max_tokens=256,
-      top_p=1,
-      frequency_penalty=0,
-      presence_penalty=0
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[
+            {
+                "role": "system",
+                "content": "You will be provided with a resume, and your task is to rewrite the text into plain English with different paragraphs for each section."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0,
+        max_tokens=1025,
+        top_p=1,
+        frequency_penalty=0,
+        presence_penalty=0
     )
-
-    message = response.choices[0].text.strip()
-    return message
+    return response.choices[0].message.content.strip()
 
 
-pdfs = pd.read_csv('pdf-summarizer.csv')
+pdfs = pd.read_csv(filename)
 
 for i in pdfs.index:
 
@@ -76,14 +85,14 @@ for i in pdfs.index:
 
             if pd.isnull(ocr):
                 print('-- converting PDF to TEXT')
-                pdfs.at[i, 'ocr'] = ocr = pdftotext(pdfs['url'][i])
+                pdfs.at[i, 'ocr'] = ocr = pdftotext(pdfs['url'][i]).strip()
 
-            if ocr:
-                ocr = reducewords(ocr, 2000)
-                print('-- asking ChatGPT to summarize')
-                answer = chatgpt(ocr)
-                pdfs.at[i, 'summary'] = answer if "Response Error" not in answer else None
-                print(answer)
+            # if ocr:
+            #     # ocr = reducewords(ocr, 2000)
+            #     print('-- asking ChatGPT to summarize')
+            #     answer = chatgpt(ocr)
+            #     pdfs.at[i, 'summary'] = answer if "Response Error" not in answer else None
+            #     print(answer)
 
         except Exception as err:
             print('FAILED: ' + pdfs['url'][i])
@@ -92,4 +101,4 @@ for i in pdfs.index:
             # fixed = fixpdf(pdf_file_on_mem)
             # pdfs.at[i, 'ocr'] = pdftotext(fixed)
 
-pdfs.to_csv("pdf-summarizer.csv", index=False)
+pdfs.to_csv(filename, index=False)
