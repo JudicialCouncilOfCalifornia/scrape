@@ -23,5 +23,10 @@ python pdf-summarizer.py template.csv
 1. The script loads the csv into Pandas DataFrame for easier manipulation of the rows.
 2. It then parses the PDF file using PdfReader.
 
-   a. TODO: Improve script to parse images inside PDF and perform an OCR, using Tesseract or similar.
+    a. TODO: Improve script to parse images inside PDF and perform an OCR, using Tesseract or similar.
 3. Then it sends the data with a corresponding prompt to the local ollama.
+
+    a. TODO: Remove the hard-coded prompts and make them configurable in the csv.
+
+    b. TODO: Allow user to specify which model to use per column, ie use llama3 for short description, use gemma for grabbing topics.
+4. Script saves the data to the csv file.
