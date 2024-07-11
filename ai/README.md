@@ -22,5 +22,6 @@ python pdf-summarizer.py template.csv
 ## What's happening
 1. The script loads the csv into Pandas DataFrame for easier manipulation of the rows.
 2. It then parses the PDF file using PdfReader.
+
    a. TODO: Improve script to parse images inside PDF and perform an OCR, using Tesseract or similar.
 3. Then it sends the data with a corresponding prompt to the local ollama.
