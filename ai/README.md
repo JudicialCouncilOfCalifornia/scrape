@@ -1,31 +1,26 @@
 # PDF Summarizer
 
-## Install Prerequisites
-* ~~pip install git+https://github.com/dsdanielpark/Bard-API.git~~ DO NOT USE BARD.  IT WILL DISABLE YOUR ACCOUNT FOR HIJACKING THE SESSION.
-* pip install pandas
-* pip install PyPDF2
-* pip install numpy
-* pip install openai
+## Install ollama
+1. Download https://ollama.com/
+2. Download a model: ollama pull llama3
+3. Test in the terminal: ollama run llama3
 
-## Set up the CSV
-* Open the CSV in a text editor
-* Disable wrapping
-* Add this new line at the end of the file:
+## Install python
+1. Set up pyenv and virtualenvwrapper: https://opensource.com/article/19/6/python-virtual-environments-mac
+2. Create an environment for this project.
+2. Go to this dir and run ```pip install -r requirements.txt --no-index```
 
-    ``url-to-the-pdf-file.pdf,,,``
-* The columns correspond to url,pdf-to-text,summary-from-ai
-* Save and close
+## Preparing the spreadsheet
+1. Copy template.csv and fill in the first column with links to PDFs accessible via the web.
+2. The pdf-summarizer will fill in the other columns with generated content.
 
-## The process
-1. The script opens the csv and checks for rows with no summary.
-2. It downloads the pdf into the memory.
-3. It converts the pdf to text.
-4. Then asks ChatGPT to summarize the pdf text.
+## Usage
+```
+python pdf-summarizer.py template.csv
+```
 
-## Running it
-1. Go to https://platform.openai.com/
-2. Generate an API Key
-2. Go to the terminal and run this to set environment variable
-
-    ``export __CHATGPT_API_KEY=[YOUR-API-KEY]``
-3. Run ``python pdf-summarizer.py``
+## What's happening
+1. The script loads the csv into Pandas DataFrame for easier manipulation of the rows.
+2. It then parses the PDF file using PdfReader.
+   a. TODO: Improve script to parse images inside PDF and perform an OCR, using Tesseract or similar.
+3. Then it sends the data with a corresponding prompt to the local ollama.
