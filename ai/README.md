@@ -1,5 +1,14 @@
 # PDF Summarizer
 
+This script generates additional metadata to a PDF document.
+
+Given with a url, the script analyzes the document and generates data for all the columns.
+
+| url	| ocr	| description	| summary	| type	| subject	| locations	| agencies	| people|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| https://www.courts.ca.gov/documents/lr-recidivism-reduction-fund-court-grant-program-ba2015.pdf|||||||||
+| https://www.courts.ca.gov/documents/hwg_work-group-report.pdf|||||||||
+
 ## Install ollama
 1. Download https://ollama.com/
 2. Download a model: ollama pull llama3
