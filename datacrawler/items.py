@@ -58,7 +58,7 @@ class JusticeItem(scrapy.Item):
         output_processor=Join(),
     )
     division = scrapy.Field(
-        input_processor=Regex('(Division\ (?i)[One|Two|Three|Four|Five|Six|1|2|3|4|5|6]*)'),
+        input_processor=Regex('(?i)(Division\ [One|Two|Three|Four|Five|Six|1|2|3|4|5|6]*)'),
         output_processor=Join(),
     )
     image = scrapy.Field(
